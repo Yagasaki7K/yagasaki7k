@@ -1,7 +1,6 @@
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 
-<center>
-<div>
+<div align="center">
     <a target='_blank' href="https://twitch.tv/yagasaki">
         <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
     </a>
@@ -22,7 +21,7 @@
 
 <hr>
 
-## 👋🏽 Hello there
+## 👋🏽 Hello there! Welcome!
 
 I really don't know how you got here, but welcome! I'll try to show you a little bit about me, my skills, my history and something else...
 
@@ -89,3 +88,5 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
 - Web Design: Website Building with PHP, HTML, CSS and JS by Udemy - Jan, 2019;
 - Illustration and Graphic Design for the Web by Bradesco - May, 2017;
 - Web Design and Graphic Design by MacPoli - Dec, 2014
+
+You can see it and more on <a href="http://yagasaki.netlify.com/">My Website</a>
