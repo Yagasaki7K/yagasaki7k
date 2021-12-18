@@ -57,26 +57,26 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
 
 <i>You can request a .pdf copy of this certificate to verify authenticity.</i>
 
-* In Progress - Computer Science by Universidade Brasileira Livre (UBL), Unknown
-* In Progress - Computer Science by Havard (CC50), Unknown
+- In Progress - Computer Science by Universidade Brasileira Livre (UBL), Unknown
+- In Progress - Computer Science by Havard (CC50), Unknown
 
-* Certificate of Participation - Proud Tech by Softplan - Nov, 2021;
-* Certificate of Participation - Agile Days with Product Management by IGTI - Nov, 2021;
-* Certificate of Participation - Masterclass Github Actions by Azure na Prática - Jan, 2021;
-* Certificate of participation Hackathon (Third place) by AMBEV - Dec, 2020;
+- Certificate of Participation - Proud Tech by Softplan - Nov, 2021;
+- Certificate of Participation - Agile Days with Product Management by IGTI - Nov, 2021;
+- Certificate of Participation - Masterclass Github Actions by Azure na Prática - Jan, 2021;
+- Certificate of participation Hackathon (Third place) by AMBEV - Dec, 2020;
 
-* Linux Terminal by Diego Mariano - Out, 2020;
-* Introduction to the Linux Operating System by Diego Mariano - Out, 2020;
-* Introduction to MySQL Database by Diego Mariano - Out, 2020;
-* Creating Dynamic Web Pages with PHP by Diego Mariano - Out, 2020;
-* Facebook Blueprint from Basic to Advanced by Faculdade do Marketing Digital - Jul, 2020;
-* 11th Edition – Omnistack Week with NodeJS, ReactJS and React Native by Rocketseat - Mar, 2020;
-* Introduction to Git and Version Control by Digital Innovation One - Feb, 2020;
-* Introduction to Github and Essential Commands by Digital Innovation One - Feb, 2020;
-* Artic Code Vault Contribuitor by Github Archive Program - Feb, 2020;
-* Essential Programming Logic by Digital Innovation One - Feb, 2020;
-* Internet programming with HTML5 and CSS3 by Digital Innovation One - Feb, 2020;
-* Web Programming for Scientific Dissemination by Diego Mariano - Jan, 2019;
-* Web Design: Website Building with PHP, HTML, CSS and JS by Udemy - Jan, 2019;
-* Illustration and Graphic Design for the Web by Bradesco - May, 2017;
-* Web Design and Graphic Design by MacPoli - Dec, 2014
+- Linux Terminal by Diego Mariano - Out, 2020;
+- Introduction to the Linux Operating System by Diego Mariano - Out, 2020;
+- Introduction to MySQL Database by Diego Mariano - Out, 2020;
+- Creating Dynamic Web Pages with PHP by Diego Mariano - Out, 2020;
+- Facebook Blueprint from Basic to Advanced by Faculdade do Marketing Digital - Jul, 2020;
+- 11th Edition – Omnistack Week with NodeJS, ReactJS and React Native by Rocketseat - Mar, 2020;
+- Introduction to Git and Version Control by Digital Innovation One - Feb, 2020;
+- Introduction to Github and Essential Commands by Digital Innovation One - Feb, 2020;
+- Artic Code Vault Contribuitor by Github Archive Program - Feb, 2020;
+- Essential Programming Logic by Digital Innovation One - Feb, 2020;
+- Internet programming with HTML5 and CSS3 by Digital Innovation One - Feb, 2020;
+- Web Programming for Scientific Dissemination by Diego Mariano - Jan, 2019;
+- Web Design: Website Building with PHP, HTML, CSS and JS by Udemy - Jan, 2019;
+- Illustration and Graphic Design for the Web by Bradesco - May, 2017;
+- Web Design and Graphic Design by MacPoli - Dec, 2014
