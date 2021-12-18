@@ -89,4 +89,4 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
 - Illustration and Graphic Design for the Web by Bradesco - May, 2017;
 - Web Design and Graphic Design by MacPoli - Dec, 2014
 
-You can see it and more on <a href="http://yagasaki.netlify.com/">My Website</a>
+You can see it and more on <a href="http://yagasaki.netlify.com/" target="_blank">My Website</a>
