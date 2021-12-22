@@ -38,7 +38,7 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
 * **Surname**: Yagasaki
 * **Age**: 24
 * **Living in**: Campinas, Brazil
-* **Stack**: Javascript - React - NextJS - Styled Components - SASS
+* **Stack**: Javascript - React - NextJS - Styled Components - SASS - Firebase
 * **Dev**: Systems Development Analyst & Front-end Developer
 * **University**: In progress | CC50 - Harvard & UBL - Computer Science
 
