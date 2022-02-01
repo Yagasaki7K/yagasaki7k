@@ -1,5 +1,7 @@
+<div align="center">
 <img src="https://i.imgur.com/AuKy1kY.png" width="400px"/>
-
+</div>
+    
 <div align="center">
     <a target='_blank' href="https://twitch.tv/yagasaki">
         <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
