@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://i.imgur.com/AuKy1kY.png" width="400px"/>
-</div>
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" />
     
 <div align="center">
     <a target='_blank' href="https://twitch.tv/yagasaki">
@@ -72,6 +70,19 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
     <hr style="width: 50%;">
 </center>
 
+- Concept creation of characters for game by GDTK - Feb, 2022;
+- Creation of a studio in the games market by GDTK - Feb, 2022;
+- Practical tips on how to promote your game in digital media by GDTK - Feb, 2022;
+- Steps for developing a game by GDTK - Feb, 2022;
+- Metaverse by GDTK - Feb, 2022;
+- The first steps of a Game Designer by GDTK - Feb, 2022;
+- Game Production by GDTK - Feb, 2022;
+- QA as part of game production by GDTK - Feb, 2022;
+- Anatomy of Combat by GDTK - Jan, 2022;
+- Product Management, Business Agility by Agile Days - Nov, 2021;
+- Proud Tech by Softplan - Nov, 2021;
+- Introduction to VueJS by Digital Innovation One - Sep, 2021;
+- Masterclass Github Actions by Azure na Prática - Jan, 2021;
 - Linux Terminal by Diego Mariano - Out, 2020;
 - Introduction to the Linux Operating System by Diego Mariano - Out, 2020;
 - Introduction to MySQL Database by Diego Mariano - Out, 2020;
