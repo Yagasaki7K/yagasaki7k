@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/AuKy1kY.png"/>
+<img src="https://i.imgur.com/AuKy1kY.png" width="400px"/>
 
 <div align="center">
     <a target='_blank' href="https://twitch.tv/yagasaki">
