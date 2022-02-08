@@ -45,7 +45,7 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
 ## Curiosities about me
 
 * I was the first student council president at my neighborhood school;
-* As a child I developed a team with my cousin and we created: Server on Habbo, Minecraft, GTA San Andreas - and the most current - GTA V;
+* As a child I developed a team with my cousin and we created: Server on Habbo, Minecraft, GTA San Andreas and GTA V;
 * I am enthusiastic about computers and since I was eight years old I have been working with computers (Windows 96);
 * I took third place in the AMBEV Hackathon in 2020;
 * I like to teach people;
