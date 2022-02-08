@@ -24,7 +24,7 @@ I really don't know how you got here, but welcome! I'll try to show you a little
 
 Science without results is just a witchcraft - Cave Johnson
 
-## Public Information
+## 🧑🏽 Public Information
 
 My name is Anderson Marlon. I currently live in Campinas, Brazil and my work is to solve bugs at my community or projects. 
 
@@ -32,7 +32,7 @@ On my free time, I manage the <a href="https://discord.gg/nyTRNSV" target="_blan
 
 Nowadays I decided to focus on my community, Aperture Labs to grow and teache others developers. In addition to, build solutions from internet like a <a href="https://webessentials.com.br" target="_blank">Web Essentials</a>, Alô Garapa, Discord Bot, Landing Page and more ...
 
-## Detailed information
+## 🖖🏽 Detailed Information
 
 * **Name**: Anderson Marlon
 * **Surname**: Yagasaki
@@ -42,7 +42,7 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
 * **Dev**: Systems Development Analyst & Front-end Developer
 * **University**: In progress | CC50 - Harvard & UBL - Computer Science
 
-## Curiosities about me
+## 📁 Curiosities about me
 
 * I was the first student council president at my neighborhood school;
 * As a child I developed a team with my cousin and we created: Server on Habbo, Minecraft, GTA San Andreas and GTA V;
@@ -50,7 +50,7 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
 * I took third place in the AMBEV Hackathon in 2020;
 * I like to teach people;
 
-## Courses and certifications 🏆
+## 🏆 Courses and certifications
 
 <i>You can request a .pdf copy of this certificate to verify authenticity.</i>
 
