@@ -70,6 +70,8 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
     <hr style="width: 50%;">
 </center>
 
+- CC50: Computer Science, The Course from Harvard, Brazil - Mar, 2022
+- CS50: Introduction to Computer Science, The Course from Harvard, Brazil - Mar, 2022
 - Concept creation of characters for game by GDTK - Feb, 2022;
 - Creation of a studio in the games market by GDTK - Feb, 2022;
 - Practical tips on how to promote your game in digital media by GDTK - Feb, 2022;
