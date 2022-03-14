@@ -55,7 +55,7 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
 <i>You can request a .pdf copy of this certificate to verify authenticity.</i>
 
 - In Progress - Computer Science by Universidade Brasileira Livre (UBL), Unknown
-- In Progress - Computer Science by Havard (CC50), Unknown
+- COMPLETE - Computer Science by Havard (CS50), Mar, 2022
 
 <center>
     <hr style="width: 50%;">
