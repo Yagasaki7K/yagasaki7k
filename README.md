@@ -39,7 +39,7 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
 * **Age**: 24
 * **Living in**: Campinas, Brazil
 * **Stack**: Javascript - React - NextJS - Typescript - Styled Components - SASS - Firebase
-* **Dev**: Systems Development Analyst & Front-end Developer
+* **Dev**: Front-end Developer
 * **University**: Graduate | CS50 - Harvard
 * **University**: In progress | Universidade Brasil Livre - Computer Science
 
@@ -53,7 +53,7 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
 
 ## 🏆 Courses and certifications
 
-<i>You can request a .pdf copy of this certificate to verify authenticity.</i>
+<i>You can <a href="https://yagasaki.netlify.com/" target="_blank">request</a> a .pdf copy of this certificate to verify authenticity.</i>
 
 - In Progress - Computer Science by Universidade Brasileira Livre (UBL), Unknown
 - COMPLETE - Computer Science by Havard (CS50), Mar, 2022
