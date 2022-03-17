@@ -40,7 +40,8 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
 * **Living in**: Campinas, Brazil
 * **Stack**: Javascript - React - NextJS - Typescript - Styled Components - SASS - Firebase
 * **Dev**: Systems Development Analyst & Front-end Developer
-* **University**: In progress | CC50 - Harvard & UBL - Computer Science
+* **University**: Graduate | CS50 - Harvard
+* **University**: In progress | Universidade Brasil Livre - Computer Science
 
 ## 📁 Curiosities about me
 
