@@ -56,7 +56,7 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
 <i>You can <a href="https://yagasaki.netlify.com/" target="_blank">request</a> a .pdf copy of this certificate to verify authenticity.</i>
 
 - In Progress - Computer Science by Universidade Brasileira Livre (UBL) - Unknown
-- COMPLETE - Computer Science by Havard (CS50) - Mar, 2022
+- COMPLETE - Introduction to Computer Science by Havard (CS50) - Mar, 2022
 
 <center>
     <hr style="width: 50%;">
