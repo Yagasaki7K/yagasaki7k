@@ -82,7 +82,7 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
 - Game Production by GDTK - Feb, 2022;
 - QA as part of game production by GDTK - Feb, 2022;
 - Anatomy of Combat by GDTK - Jan, 2022;
-- Product Management, Business Agility by Agile Days - Nov, 2021;
+- Product Management, Business Agility and Technical Excellence by Agile Days - Nov, 2021;
 - Proud Tech by Softplan - Nov, 2021;
 - Introduction to VueJS by Digital Innovation One - Sep, 2021;
 - Masterclass Github Actions by Azure na Prática - Jan, 2021;
