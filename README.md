@@ -75,6 +75,7 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
     <hr style="width: 50%;">
 </center>
 
+- Workshop Figma by Design Culture - Apr, 2022
 - CS50: Computer Science, The Course from Harvard, Brazil - Mar, 2022
 - CS50: Introduction to Computer Science, The Course from Harvard, Brazil - Mar, 2022
 - Concept creation of characters for game by GDTK - Feb, 2022;
