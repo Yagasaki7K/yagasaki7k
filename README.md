@@ -51,10 +51,10 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
 * I like to teach people;
 
 ## 📔 Latest Blog Post in Portuguese
+- [Conheça sobre Developer Relations (#DevRel)](https://yagasaki.vercel.app/blog/posts/devrel)
 - [Fazendo autenticação com Google/Firebase com ReactJS/NextJS](https://yagasaki.vercel.app/blog/posts/authfirebase)
 - [O que é a Chell Series da Aperture Laboratories?](https://yagasaki.vercel.app/blog/posts/chell-series)
 - [Front-end, Back-end, Fullstack, o que é e para onde ir?](https://yagasaki.vercel.app/blog/posts/roadmap)
-- [Conheça o Magic: Future-proof passwordless authentication](https://yagasaki.vercel.app/blog/posts/magic-login)
 
 ## 🏆 Courses and certifications
 
