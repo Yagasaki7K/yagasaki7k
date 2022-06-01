@@ -40,8 +40,6 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
 
 <i>You can request a .pdf copy of this certificates to verify authenticity.</i>
 
-- COMPLETE - Introduction to Computer Science by Havard (CS50) - Mar, 2022
-
 <center>
     <hr style="width: 50%;">
 </center>
@@ -55,6 +53,7 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
     <hr style="width: 50%;">
 </center>
 
+- Introduction to Computer Science by Havard (CS50) - Mar, 2022
 - Workshop Figma by Design Culture - Apr, 2022
 - CS50: Computer Science, The Course from Harvard, Brazil - Mar, 2022
 - CS50: Introduction to Computer Science, The Course from Harvard, Brazil - Mar, 2022
