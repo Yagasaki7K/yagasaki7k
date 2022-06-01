@@ -8,19 +8,18 @@ Science without results is just a witchcraft - Cave Johnson
 
 My name is Anderson Marlon. I currently live in Campinas, Brazil and my work is to solve bugs at my community or projects. 
 
-On my free time, I manage the [@ApertureLabs](https://discord.gg/nyTRNSV) community builded by [Kalify Inc](https://kalify.netlify.com), which is basically a place where beginners search for people who wants to help new developers to find a direction of "know how" to code and solve bugs daily.
+On my free time, I manage the [@ApertureLabs](https://discord.gg/nyTRNSV) community builded by [Kalify Inc](https://kalify.vercel.app), which is basically a place where beginners search for people who wants to help new developers to find a direction of "know how" to code and solve bugs daily.
 
-Nowadays I decided to focus on my community, Aperture Labs to grow and teache others developers. In addition to, build solutions from internet like a [Web Essentials](https://webessentials.com.br), Alô Garapa, Discord Bot, Landing Page and more ...
+Nowadays I decided to focus on my community, Aperture Labs to grow and teache others developers. In addition to, build solutions from internet like a [Web Essentials](https://webessentials.com.br), AlôGarapa, FindYourPet, Discord Bot, Landing Page and more ...
 
 ## 🖖🏽 Detailed Information
 
 * **Name**: Anderson Marlon
 * **Surname**: Yagasaki
-* **Age**: 24
+* **Age**: 25
 * **Living in**: Campinas, Brazil
 * **Stack**: Javascript - React - NextJS - Typescript - Styled Components - SASS - Firebase
 * **Dev**: Front-end Developer
-* **University**: Graduate | CS50 - Harvard
 
 ## 📁 Curiosities about me
 
