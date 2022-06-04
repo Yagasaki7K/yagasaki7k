@@ -10,7 +10,7 @@ My name is Anderson Marlon. I currently live in Campinas, Brazil and my work is 
 
 On my free time, I manage the [@ApertureLabs](https://discord.gg/nyTRNSV) community builded by [Kalify Inc](https://kalify.vercel.app), which is basically a place where beginners search for people who wants to help new developers to find a direction of "know how" to code and solve bugs daily.
 
-Nowadays I decided to focus on my community, Aperture Labs to grow and teache others developers. In addition to, build solutions from internet like a [Web Essentials](https://webessentials.com.br), AlôGarapa, FindYourPet, Discord Bot, Landing Page and more ...
+Nowadays I decided to focus on my community, Aperture Labs to grow and teache others developers. In addition to, build solutions from internet like a [Web Essentials](https://webessentials.com.br), [Jhenny's Book](https://jhennysbook.vercel.app/), AlôGarapa (in progress), [FindYourPet](https://findyourpet.vercel.app), Discord Bot, Landing Pages and more ...
 
 ## 🖖🏽 Detailed Information
 
@@ -19,7 +19,7 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
 * **Age**: 25
 * **Living in**: Campinas, Brazil
 * **Stack**: Javascript - React - NextJS - Typescript - Styled Components - SASS - Firebase - Sanity.io
-* **Dev**: Front-end Developer
+* **Dev**: Front-end Software Developer
 
 ## 📁 Curiosities about me
 
@@ -27,7 +27,9 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
 * As a child I developed a team with my cousin and we created: Server on Habbo, Minecraft, GTA San Andreas and GTA V;
 * I am enthusiastic about computers and since I was eight years old I have been working with computers (Windows 96);
 * I took third place in the AMBEV Hackathon in 2020;
-* I like to teach people;
+* I like to teach and learn with people;
+* Have Introduction to Computer Science by Harvard
+* 
 
 ## 📔 Latest Blog Post in Portuguese
 - [Jhenny’s Book - Uma homenagem em app](https://yagasaki.notion.site/Jhenny-s-Book-Uma-homenagem-em-app-4ec410e98bb949e582d97665ae2d07c8)
