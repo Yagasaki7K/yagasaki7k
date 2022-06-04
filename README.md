@@ -28,8 +28,7 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
 * I am enthusiastic about computers and since I was eight years old I have been working with computers (Windows 96);
 * I took third place in the AMBEV Hackathon in 2020;
 * I like to teach and learn with people;
-* Have Introduction to Computer Science by Harvard
-* 
+* Introduction to Computer Science by Harvard
 
 ## 📔 Latest Blog Post in Portuguese
 - [Jhenny’s Book - Uma homenagem em app](https://yagasaki.notion.site/Jhenny-s-Book-Uma-homenagem-em-app-4ec410e98bb949e582d97665ae2d07c8)
