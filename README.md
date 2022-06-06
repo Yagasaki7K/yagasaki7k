@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://www.heypoorplayer.com/wp-content/uploads/2020/01/Screenshot_1-1-e1580460571364.png"/>
+    <img src="https://www.heypoorplayer.com/wp-content/uploads/2020/01/Screenshot_1-1-e1580460571364.png" width="100%"/>
 </div>
 
 ## 👋🏽 Hello there! Welcome!
