@@ -1,6 +1,10 @@
+<div align="center">
+    <img src="https://www.heypoorplayer.com/wp-content/uploads/2020/01/Screenshot_1-1-e1580460571364.png"/>
+</div>
+
 ## 👋🏽 Hello there! Welcome!
 
-I really don't know how you got here, but welcome! I'll try to show you a little bit about me, my skills, my history and something else...
+I really don't know how you got here, but welcome! Get your coffee ☕️ and I'll try to show you a little bit about me, my skills, my history, my progress and something else...
 
 Science without results is just a witchcraft - Cave Johnson
 
