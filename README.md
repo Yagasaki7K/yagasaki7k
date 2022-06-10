@@ -9,6 +9,8 @@ Get your coffee ☕️ and I'll try to show you a little bit about me, my skills
 
 Science without results is just a witchcraft - Cave Johnson
 
+![](https://ripgvc.herokuapp.com/?username=yagasaki7k&color=eeaabb)
+
 ## 🧑🏽 Public Information
 
 My name is Anderson Marlon. I currently live in Campinas, Brazil and my work is to solve bugs at my community or projects. 
