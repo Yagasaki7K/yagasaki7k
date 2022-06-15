@@ -9,7 +9,7 @@ Get your coffee ☕️ and I'll try to show you a little bit about me, my skills
 
 Science without results is just a witchcraft - Cave Johnson
 
-![](https://ripgvc.herokuapp.com/?username=yagasaki7k&color=3f8c83)
+![](https://ripgvc.herokuapp.com/?username=yagasaki7k&color=f7acb4)
 
 ## 🧑🏽 Public Information
 
