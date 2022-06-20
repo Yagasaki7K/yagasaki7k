@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.imgur.com/VOo3gRH.gif" width="100%"/>
+    <img src="https://i.pinimg.com/originals/5c/ff/59/5cff5963e73f78f80921359bc8631ca5.gif" width="100%"/>
 </div>
 
 ## 👋🏽 Hello there! Welcome!
@@ -9,7 +9,7 @@ Get your coffee ☕️ and I'll try to show you a little bit about me, my skills
 
 Science without results is just a witchcraft - Cave Johnson
 
-![](https://ripgvc.herokuapp.com/?username=yagasaki7k&color=334339)
+![](https://ripgvc.herokuapp.com/?username=yagasaki7k&color=931630)
 
 ## 🧑🏽 Public Information
 
