@@ -46,12 +46,6 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
 
 ## 🏆 Courses and certifications
 
-<i>You can request a .pdf copy of this certificates to verify authenticity.</i>
-
-<center>
-    <hr style="width: 50%;">
-</center>
-
 - Certificate of Participation - Proud Tech by Softplan - Nov, 2021;
 - Certificate of Participation - Agile Days with Product Management by IGTI - Nov, 2021;
 - Certificate of Participation - Masterclass Github Actions by Azure na Prática - Jan, 2021;
