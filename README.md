@@ -4,8 +4,9 @@
 
 ## 👋🏽 Hello there! Welcome!
 
-I really don't know how you got here, but welcome! 
-Get your coffee ☕️ and I'll try to show you a little bit about me, my skills, my history, my progress and something else...
+I really don't know how you got here, but welcome!
+
+Grab your coffee ☕️ and I'll try to show you a little bit about me, my skills, my history, my achievements, my progress and anything else, if you have anything interesting to know...
 
 Science without results is just a witchcraft - Cave Johnson
 
