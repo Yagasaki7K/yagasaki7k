@@ -39,10 +39,10 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
 * Introduction to Computer Science by Harvard
 
 ## 📔 Latest Blog Post in Portuguese
+- [Rebuild: 4chell da Aperture Laboratories](https://yagasaki.notion.site/Rebuild-4chell-da-Aperture-Laboratories-f8b643989d9a4df2b309e265629cfbf9)
 - [Jhenny’s Book - Uma homenagem em app](https://yagasaki.notion.site/Jhenny-s-Book-Uma-homenagem-em-app-4ec410e98bb949e582d97665ae2d07c8)
 - [Conheça sobre Developer Relations (#DevRel)](https://yagasaki.notion.site/Conhe-a-sobre-Developer-Relations-DevRel-63bafcb9230a4580811d577deebb3eea)
 - [Fazendo autenticação com Google/Firebase com ReactJS/NextJS](https://yagasaki.notion.site/Fazendo-autentica-o-no-Google-Firebase-com-React-NextJS-221a992d244741c18226ca8ba2f31cce)
-- [Front-end, Back-end, Fullstack, o que é e para onde ir?](https://yagasaki.notion.site/Front-end-Back-end-Fullstack-o-que-e-para-onde-ir-867d87bece3941a1a60acac60843bbd7)
 
 ## 🏆 Courses and certifications
 
