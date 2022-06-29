@@ -26,7 +26,8 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
 * **Surname**: Yagasaki
 * **Age**: 25
 * **Living in**: Campinas, Brazil
-* **Stack**: Javascript - React - NextJS - Typescript - Styled Components - SASS - Firebase - Sanity.io
+* **Stack**: Javascript - React - NextJS - Typescript - Styled Components - SASS - Firebase - Sanity.io - Docker
+* **Learning**: GraphQL - Unit Tests - Apollo Client - MongoDB - React Native
 * **Dev**: Front-end Software Developer
 
 ## 📁 Curiosities about me
