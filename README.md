@@ -44,7 +44,7 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
 - [Conheça sobre Developer Relations (#DevRel)](https://yagasaki.notion.site/Conhe-a-sobre-Developer-Relations-DevRel-63bafcb9230a4580811d577deebb3eea)
 - [Fazendo autenticação com Google/Firebase com ReactJS/NextJS](https://yagasaki.notion.site/Fazendo-autentica-o-no-Google-Firebase-com-React-NextJS-221a992d244741c18226ca8ba2f31cce)
 
-## 🏆 Courses and certifications
+## 🏆 Certifications and Participations
 
 - Certificate of Participation - Proud Tech by Softplan - Nov, 2021;
 - Certificate of Participation - Agile Days with Product Management by IGTI - Nov, 2021;
