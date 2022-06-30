@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.gifer.com/6zjx.gif" width="100%"/>
+    <img src="https://i.pinimg.com/originals/8b/5d/b5/8b5db5301779671d2c892b90bc633d60.gif" width="100%"/>
 </div>
 
 ## 👋🏽 Hello there! Welcome!
