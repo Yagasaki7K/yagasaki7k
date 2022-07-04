@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.pinimg.com/originals/8b/5d/b5/8b5db5301779671d2c892b90bc633d60.gif" width="100%"/>
+    <img src="https://64.media.tumblr.com/cf851df934fef705d6d0f57117b670fe/tumblr_pwfz4lGcVn1ypo8pvo1_540.gif" width="100%"/>
 </div>
 
 ## 👋🏽 Hello there! Welcome!
