@@ -47,45 +47,4 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
 
 ## 🏆 Certifications and Participations
 
-- Certificate of Participation - Proud Tech by Softplan - Nov, 2021;
-- Certificate of Participation - Agile Days with Product Management by IGTI - Nov, 2021;
-- Certificate of Participation - Masterclass Github Actions by Azure na Prática - Jan, 2021;
-- Certificate of participation Hackathon (Third place) by AMBEV - Dec, 2020;
-
-<center>
-    <hr style="width: 50%;">
-</center>
-
-- Workshop Figma by Design Culture - Apr, 2022
-- CS50: Computer Science, The Course from Harvard, Brazil - Mar, 2022
-- CS50: Introduction to Computer Science, The Course from Harvard, Brazil - Mar, 2022
-- Concept creation of characters for game by GDTK - Feb, 2022;
-- Creation of a studio in the games market by GDTK - Feb, 2022;
-- Practical tips on how to promote your game in digital media by GDTK - Feb, 2022;
-- Steps for developing a game by GDTK - Feb, 2022;
-- Metaverse by GDTK - Feb, 2022;
-- The first steps of a Game Designer by GDTK - Feb, 2022;
-- Game Production by GDTK - Feb, 2022;
-- QA as part of game production by GDTK - Feb, 2022;
-- Anatomy of Combat by GDTK - Jan, 2022;
-- Product Management, Business Agility and Technical Excellence by Agile Days - Nov, 2021;
-- Proud Tech by Softplan - Nov, 2021;
-- Introduction to VueJS by Digital Innovation One - Sep, 2021;
-- Masterclass Github Actions by Azure na Prática - Jan, 2021;
-- Linux Terminal by Diego Mariano - Out, 2020;
-- Introduction to the Linux Operating System by Diego Mariano - Out, 2020;
-- Introduction to MySQL Database by Diego Mariano - Out, 2020;
-- Creating Dynamic Web Pages with PHP by Diego Mariano - Out, 2020;
-- Facebook Blueprint from Basic to Advanced by Faculdade do Marketing Digital - Jul, 2020;
-- 11th Edition – Omnistack Week with NodeJS, ReactJS and React Native by Rocketseat - Mar, 2020;
-- Introduction to Git and Version Control by Digital Innovation One - Feb, 2020;
-- Introduction to Github and Essential Commands by Digital Innovation One - Feb, 2020;
-- Artic Code Vault Contribuitor by Github Archive Program - Feb, 2020;
-- Essential Programming Logic by Digital Innovation One - Feb, 2020;
-- Internet programming with HTML5 and CSS3 by Digital Innovation One - Feb, 2020;
-- Web Programming for Scientific Dissemination by Diego Mariano - Jan, 2019;
-- Web Design: Website Building with PHP, HTML, CSS and JS by Udemy - Jan, 2019;
-- Illustration and Graphic Design for the Web by Bradesco - May, 2017;
-- Web Design and Graphic Design by MacPoli - Dec, 2014
-
-You can see it and more on my <a href="http://yagasaki.netlify.com/" target="_blank">Official Website</a>
+- You can see it and more on my <a href="http://yagasaki.netlify.com/" target="_blank">Official Website</a> on Curriculum link next to the blog link.
