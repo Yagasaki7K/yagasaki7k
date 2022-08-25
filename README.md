@@ -40,10 +40,10 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
 * Introduction to Computer Science by Harvard
 
 ## 📔 Latest Blog Post in Portuguese
+- [14 Hábitos de Desenvolvedores Altamente Produtivos](https://yagasaki.vercel.app/blog/habitos-desenvolvedores-produtivos)
 - [Jhenny’s Book - Uma homenagem em app](https://yagasaki.vercel.app/blog/jhennys-book-uma-homenagem-em-app)
 - [Conheça sobre Developer Relations (#DevRel)](https://yagasaki.vercel.app/blog/conheca-sobre-developer-relations)
 - [Front-end, Back-end, Fullstack, o que é e para onde ir?](https://yagasaki.vercel.app/blog/front-end-back-end-full-stack-o-que-e-e-para-onde-ir)
-- [Minha experiência com o desenvolvimento do blog com NextJS](https://yagasaki.vercel.app/blog/minha-experiencia-com-o-desenvolvimento-do-blog-com-nextjs)
 
 ## 🏆 Certifications and Participations
 
