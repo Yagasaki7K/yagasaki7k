@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://pbs.twimg.com/profile_banners/994763945331384320/1663264612/1500x500" width="100%"/>
+    <img src="https://64.media.tumblr.com/9eed6dc290b4fbdada16d9bb53c294f6/58e6257898c2099b-ba/s540x810/ba0e8c5911d7b142971c3b46e44362c6452ceeb0.gifv" width="100%"/>
 </div>
 
 ## 👋🏽 Hello there! Welcome!
@@ -10,7 +10,7 @@ Grab your coffee ☕️ and I'll try to show you a little bit about me, my skill
 
 Science without results is just a witchcraft - Cave Johnson
 
-![](https://ripgvc.herokuapp.com/?username=yagasaki7k&color=b06bd5)
+![](https://ripgvc.herokuapp.com/?username=yagasaki7k&color=8195ff)
 
 ## 🧑🏽 Public Information
 
