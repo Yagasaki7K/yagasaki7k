@@ -18,7 +18,7 @@ My name is Anderson Marlon. I currently live in Campinas, Brazil and my work is 
 
 On my free time, I manage the [@ApertureLabs](https://discord.gg/nyTRNSV) community builded by [Kalify Inc](https://kalify.vercel.app), which is basically a place where beginners search for people who wants to help new developers to find a direction of "know how" to code and solve bugs daily.
 
-Nowadays I decided to focus on my community, Aperture Labs to grow and teache others developers. In addition to, build solutions from internet like a [Web Essentials](https://webessentials.com.br), [Jhenny's Book](https://jhennysbook.vercel.app/), AlôGarapa (in progress), [FindYourPet](https://findyourpet.vercel.app), Discord Bot, Landing Pages and more ...
+Nowadays I decided to focus on my community, ~Aperture Labs~ Kalify Community to grow and teache others developers. In addition to, build solutions from internet like a [Web Essentials](https://webessentials.com.br), [Onigiri Hardcore](https://onigirihardcore.vercel.app), [Jhenny's Book](https://jhennysbook.vercel.app/), AlôGarapa (in progress), [FindYourPet](https://findyourpet.vercel.app), Discord Bot, Landing Pages and more ...
 
 ## 🖖🏽 Detailed Information
 
@@ -27,7 +27,7 @@ Nowadays I decided to focus on my community, Aperture Labs to grow and teache ot
 * **Age**: 25
 * **Living in**: Campinas, Brazil
 * **Stack**: Javascript - React - NextJS - Typescript - Styled Components - SASS - Firebase - Sanity.io - Docker
-* **Learning**: GraphQL - Unit Tests - Apollo Client - MongoDB - React Native
+* **Learning**: GraphQL - MongoDB - React Native - Electron
 * **Dev**: Front-end Software Developer
 
 ## 📁 Curiosities about me
