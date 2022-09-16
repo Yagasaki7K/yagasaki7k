@@ -20,7 +20,7 @@ src="https://img.shields.io/badge/Gmail-Send%20a%20email-ff41ff?logo=gmail&style
 
 ----------------------------
 
-👋 Hi! My name is Anderson “Yagasaki” Marlon
+<img src="https://github.com/tairosonloa/tairosonloa/blob/main/assets/wave.gif?raw=true" width="25px"/> Hi! My name is Anderson “Yagasaki” Marlon
 ----------------------------
 
 Experienced Software Development Analyst and Front-end Developer building scalable systems and applications in the Financial Technology (Fintech), Affiliate System, Brewery, Healthcare, Journalism, Sustainability, Sales/Entrepreneurship, Podcasts and eSports (Electronic Sports).
