@@ -2,49 +2,55 @@
     <img src="https://64.media.tumblr.com/3a5a1e44dfe08509c29b13f75e0f575b/9ccb8279c8c76154-36/s540x810/b243730f5052b98cbfc7eedce20ad89a366e042c.gifv" width="100%"/>
 </div>
 
-## 👋🏽 Hello there! Welcome!
+----------------------------
 
-I really don't know how you got here, but welcome!
+<div align="center">
+<a href="http://www.github.com/yagasaki7k"><img src="https://github-readme-stats.vercel.app/api?username=yagasaki7k&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=1da1f2&icon_color=ec4899&bg_color=171717&hide_border=true&show_icons=true" alt="yagasaki7k's GitHub stats" /></a>
 
-Grab your coffee ☕️ and I'll try to show you a little bit about me, my skills, my history, my achievements, my progress and anything else, if you have anything interesting to know...
+<a href="https://www.buymeacoffee.com/yagasaki" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/Buy%20me%20a%20coffee-Support-ff41ff?logo=buymeacoffee&style=for-the-badge&color=ec4899&labelColor=171717" /></a> <a href="https://www.twitter.com/yagasaki7k" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/yagasaki7k?logo=twitter&style=for-the-badge&color=ec4899&labelColor=171717"
+/></a> <a href="https://www.github.com/yagasaki7k" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/yagasaki7k?logo=github&style=for-the-badge&color=ec4899&labelColor=171717" /></a>
 
-Science without results is just a witchcraft - Cave Johnson
+<a href="https://www.linkedin.com/in/andersonmarlon" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/Linkedin-Contact%20Me-ff41ff?logo=linkedin&style=for-the-badge&color=ec4899&labelColor=171717" /></a> <a href="mailto:anderson18.marlon@gmail.com" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/Gmail-Send%20a%20email-ff41ff?logo=gmail&style=for-the-badge&color=ec4899&labelColor=171717" /></a>
+</div>
 
-![](https://ripgvc.herokuapp.com/?username=yagasaki7k&color=ff41ff)
+----------------------------
 
-## 🧑🏽 Public Information
+👋 Hi! My name is Anderson “Yagasaki” Marlon
+----------------------------
 
-My name is Anderson Marlon. I currently live in Campinas, Brazil and my work is to solve bugs at my community or projects. 
+Experienced Software Development Analyst and Front-end Developer building scalable systems and applications in the Financial Technology (Fintech), Affiliate System, Brewery, Healthcare, Journalism, Sustainability, Sales/Entrepreneurship, Podcasts and eSports (Electronic Sports).
 
-On my free time, I manage the ~Aperture Labs~ [Kalify Community](https://discord.gg/jhSepmE7nN) community builded by [Kalify Inc](https://kalify.vercel.app), which is basically a place where beginners search for people who wants to help new developers to find a direction of "know how" to code and solve bugs daily.
+- 🌍  I'm born and based in Campinas, Brazil
+- 🖥️  You can see my portfolio at [official website](http://yagasaki.vercel.app/curriculum)
+- ✉️  You can contact me at [anderson18.marlon@gmail.com](mailto:anderson18.marlon@gmail.com)
+- 🚀  I'm currently working on [Kalify Projects (Open Source)](http://kalify.vercel.app/projetos)
+- 🤓  I'm know about ReactJS, NextJS, Typescript, Styled Components, SASS, Firebase, Sanity.io and Docker.
+- 🧠  I'm learning about GraphQL, MongoDB, React Native and Electron
+- 🤝  I'm open to collaborating on interesting projects
 
-Nowadays I decided to focus on my community, ~Aperture Labs~ Kalify Community to grow and teache others developers. In addition to, build solutions from internet like a [Web Essentials](https://webessentials.com.br), [Onigiri Hardcore](https://onigirihardcore.vercel.app), [Jhenny's Book](https://jhennysbook.vercel.app/), AlôGarapa (in progress), [FindYourPet](https://findyourpet.vercel.app), Discord Bot, Landing Pages and more ...
+🚀 Curiosities about me
+----------------------------
 
-## 🖖🏽 Detailed Information
+- Basic Introduction to Computer Science by Harvard
+- I took third place in the AMBEV Hackathon in 2020;
+- I like to teach and learn with people;
+- I was the first student council president at my neighborhood school;
+- As a child I developed a team with my cousin and we created: Server on Habbo, Minecraft, GTA San Andreas and GTA V;
+- I am enthusiastic about computers and since I was eight years old I have been working with computers (Windows 96);
 
-* **Name**: Anderson Marlon
-* **Surname**: Yagasaki
-* **Age**: 25
-* **Living in**: Campinas, Brazil
-* **Stack**: Javascript - React - NextJS - Typescript - Styled Components - SASS - Firebase - Sanity.io - Docker
-* **Learning**: GraphQL - MongoDB - React Native - Electron
-* **Dev**: Front-end Software Developer
+Nowadays I decided to focus on my community, [Kalify Community](https://discord.gg/jhSepmE7nN) to grow and teache others developers. In addition to, build solutions from internet like a [Web Essentials](https://webessentials.com.br), [Onigiri Hardcore](https://onigirihardcore.vercel.app), [FindYourPet](https://findyourpet.vercel.app), AlôGarapa (in progress), and more [Kalify Projects](https://kalify.vercel.app/projetos)
 
-## 📁 Curiosities about me
-
-* I was the first student council president at my neighborhood school;
-* As a child I developed a team with my cousin and we created: Server on Habbo, Minecraft, GTA San Andreas and GTA V;
-* I am enthusiastic about computers and since I was eight years old I have been working with computers (Windows 96);
-* I took third place in the AMBEV Hackathon in 2020;
-* I like to teach and learn with people;
-* Introduction to Computer Science by Harvard
-
-## 📔 Latest Blog Post in Portuguese
+🤓 Latest Blog Post in Portuguese
+----------------------------
 - [14 Hábitos de Desenvolvedores Altamente Produtivos](https://yagasaki.vercel.app/blog/habitos-desenvolvedores-produtivos)
 - [Jhenny’s Book - Uma homenagem em app](https://yagasaki.vercel.app/blog/jhennys-book-uma-homenagem-em-app)
 - [Conheça sobre Developer Relations (#DevRel)](https://yagasaki.vercel.app/blog/conheca-sobre-developer-relations)
 - [Front-end, Back-end, Fullstack, o que é e para onde ir?](https://yagasaki.vercel.app/blog/front-end-back-end-full-stack-o-que-e-e-para-onde-ir)
-
-## 🏆 Certifications and Participations
-
-- You can see it and more on my <a href="http://yagasaki.netlify.com/" target="_blank">Official Website</a> on Curriculum link next to the blog link.
+- [Minha experiência com o desenvolvimento do blog com NextJS](https://yagasaki.vercel.app/blog/minha-experiencia-com-o-desenvolvimento-do-blog-com-nextjs)
+- [Como conseguir experiência sendo Júnior/Iniciante](https://yagasaki.vercel.app/blog/como-conseguir-experiencia-sendo-junior-iniciante)
+- [3º Lugar no Hackathon pela AMBEV em parceria com a Shawee](https://yagasaki.vercel.app/blog/3-lugar-no-hackathon-pela-ambev-em-parceria-com-a-shawee)
