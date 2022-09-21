@@ -1,25 +1,3 @@
-<div align="center">
-    <img src="https://pbs.twimg.com/profile_banners/994763945331384320/1663685523/1500x500" width="100%"/>
-</div>
-
-----------------------------
-
-<div align="center">
-<a href="http://www.github.com/yagasaki7k"><img src="https://github-readme-stats.vercel.app/api?username=yagasaki7k&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=1da1f2&icon_color=c1fbff&bg_color=171717&hide_border=true&show_icons=true" alt="yagasaki7k's GitHub stats" /></a>
-
-<a href="https://www.buymeacoffee.com/yagasaki" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/badge/Buy%20me%20a%20coffee-Support-ff41ff?logo=buymeacoffee&style=for-the-badge&color=c1fbff&labelColor=171717" /></a> <a href="https://www.twitter.com/yagasaki7k" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/yagasaki7k?logo=twitter&style=for-the-badge&color=c1fbff&labelColor=171717"
-/></a> <a href="https://www.github.com/yagasaki7k" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/yagasaki7k?logo=github&style=for-the-badge&color=c1fbff&labelColor=171717" /></a>
-
-<a href="https://www.linkedin.com/in/andersonmarlon" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/badge/Linkedin-Contact%20Me-ff41ff?logo=linkedin&style=for-the-badge&color=c1fbff&labelColor=171717" /></a> <a href="mailto:anderson18.marlon@gmail.com" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/badge/Gmail-Send%20a%20email-ff41ff?logo=gmail&style=for-the-badge&color=c1fbff&labelColor=171717" /></a>
-</div>
-
-----------------------------
-
 <img src="https://github.com/tairosonloa/tairosonloa/blob/main/assets/wave.gif?raw=true" width="25px"/> Hi! My name is Anderson “Yagasaki” Marlon
 ----------------------------
 
