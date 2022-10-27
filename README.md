@@ -25,10 +25,10 @@ Nowadays I decided to focus on my community, [Kalify Community](https://discord.
 
 🤓 Latest Blog Post in Portuguese
 ----------------------------
-- [Enviando um e-mail usando NextJS ou ReactJS com Fetch](https://yagasaki.vercel.app/blog/enviando-um-email-usando-nextjs-ou-reactjs-com-fetch)
-- [14 Hábitos de Desenvolvedores Altamente Produtivos](https://yagasaki.vercel.app/blog/habitos-desenvolvedores-produtivos)
-- [Jhenny’s Book - Uma homenagem em app](https://yagasaki.vercel.app/blog/jhennys-book-uma-homenagem-em-app)
-- [Conheça sobre Developer Relations (#DevRel)](https://yagasaki.vercel.app/blog/conheca-sobre-developer-relations)
-- [Front-end, Back-end, Fullstack, o que é e para onde ir?](https://yagasaki.vercel.app/blog/front-end-back-end-full-stack-o-que-e-e-para-onde-ir)
-- [Minha experiência com o desenvolvimento do blog com NextJS](https://yagasaki.vercel.app/blog/minha-experiencia-com-o-desenvolvimento-do-blog-com-nextjs)
-- [Como conseguir experiência sendo Júnior/Iniciante](https://yagasaki.vercel.app/blog/como-conseguir-experiencia-sendo-junior-iniciante)
+- [Enviando um e-mail usando NextJS ou ReactJS com Fetch](https://yagasaki.vercel.app/posts/enviando-um-email-usando-nextjs-ou-reactjs-com-fetch)
+- [14 Hábitos de Desenvolvedores Altamente Produtivos](https://yagasaki.vercel.app/posts/habitos-desenvolvedores-produtivos)
+- [Jhenny’s Book - Uma homenagem em app](https://yagasaki.vercel.app/posts/jhennys-book-uma-homenagem-em-app)
+- [Conheça sobre Developer Relations (#DevRel)](https://yagasaki.vercel.app/posts/conheca-sobre-developer-relations)
+- [Front-end, Back-end, Fullstack, o que é e para onde ir?](https://yagasaki.vercel.app/posts/front-end-back-end-full-stack-o-que-e-e-para-onde-ir)
+- [Minha experiência com o desenvolvimento do blog com NextJS](https://yagasaki.vercel.app/posts/minha-experiencia-com-o-desenvolvimento-do-blog-com-nextjs)
+- [Como conseguir experiência sendo Júnior/Iniciante](https://yagasaki.vercel.app/posts/como-conseguir-experiencia-sendo-junior-iniciante)
