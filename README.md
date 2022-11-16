@@ -25,10 +25,9 @@ Nowadays I decided to focus on my community, [Kalify Community](https://discord.
 
 🤓 Latest Blog Post in Portuguese
 ----------------------------
-- [Enviando um e-mail usando NextJS ou ReactJS com Fetch](https://yagasaki.vercel.app/posts/enviando-um-email-usando-nextjs-ou-reactjs-com-fetch)
-- [14 Hábitos de Desenvolvedores Altamente Produtivos](https://yagasaki.vercel.app/posts/habitos-desenvolvedores-produtivos)
-- [Jhenny’s Book - Uma homenagem em app](https://yagasaki.vercel.app/posts/jhennys-book-uma-homenagem-em-app)
-- [Conheça sobre Developer Relations (#DevRel)](https://yagasaki.vercel.app/posts/conheca-sobre-developer-relations)
-- [Front-end, Back-end, Fullstack, o que é e para onde ir?](https://yagasaki.vercel.app/posts/front-end-back-end-full-stack-o-que-e-e-para-onde-ir)
-- [Minha experiência com o desenvolvimento do blog com NextJS](https://yagasaki.vercel.app/posts/minha-experiencia-com-o-desenvolvimento-do-blog-com-nextjs)
-- [Como conseguir experiência sendo Júnior/Iniciante](https://yagasaki.vercel.app/posts/como-conseguir-experiencia-sendo-junior-iniciante)
+- [Enviando um e-mail usando NextJS ou ReactJS com Fetch](https://medium.com/@yagasaki7k/enviando-um-e-mail-usando-nextjs-ou-reactjs-com-fetch-1715f09d98eb)
+- [14 Hábitos de Desenvolvedores Altamente Produtivos](https://medium.com/@yagasaki7k/14-h%C3%A1bitos-de-desenvolvedores-altamente-produtivos-fff40618f763)
+- [Conheça sobre Developer Relations (#DevRel)](https://medium.com/@yagasaki7k/conhe%C3%A7a-sobre-developer-relations-devrel-6641347df01b)
+- [Front-end, Back-end, Fullstack, o que é e para onde ir?](https://medium.com/@yagasaki7k/front-end-back-end-fullstack-o-que-%C3%A9-e-para-onde-ir-b8b27bced711)
+- [Minha experiência com o desenvolvimento do blog com NextJS](https://medium.com/@yagasaki7k/minha-experi%C3%AAncia-com-o-desenvolvimento-do-blog-com-nextjs-9473cf92f783)
+- [Como conseguir experiência sendo Júnior/Iniciante](https://medium.com/@yagasaki7k/como-conseguir-experi%C3%AAncia-sendo-j%C3%BAnior-iniciante-bcb0cce4bbac)
