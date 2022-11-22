@@ -1,13 +1,13 @@
 <img src="https://github.com/tairosonloa/tairosonloa/blob/main/assets/wave.gif?raw=true" width="25px"/> Hi! My name is Anderson “Yagasaki” Marlon
 ----------------------------
 
-Experienced Software Development Analyst and Front-end Developer building scalable systems and applications in the Financial Technology (Fintech), Affiliate System, Brewery, Healthcare, Journalism, Sustainability, Sales/Entrepreneurship, Music, Podcasts, Communication, Sustainability and eSports (Electronic Sports).
+Experienced Software Development (Chunnin) and Front-end Developer building scalable systems and applications in the Financial Technology (Fintech), Affiliate System, Brewery, Healthcare, Journalism, Sustainability, Sales/Entrepreneurship, Music, Podcasts, Communication, Sustainability and eSports (Electronic Sports).
 
 - 🌍  I'm born and based in Campinas, Brazil
 - 🖥️  You can see my portfolio at [official website](http://yagasaki.vercel.app/curriculum)
 - ✉️  You can contact me at [anderson18.marlon@gmail.com](mailto:anderson18.marlon@gmail.com)
-- 🚀  I'm currently working on Stone / Kalify Inc
-- 🤓  I'm know about ReactJS, NextJS, Typescript, Styled Components, SASS, Firebase and Docker.
+- 🚀  I'm currently Software Development (Chunnin/中忍) @ Stone / Kalify
+- 🤓  I'm know about ReactJS, NextJS, Typescript, Styled Components, SASS, Firebase & Docker.
 - 🧠  I'm learning about GraphQL, MongoDB, React Native and Electron
 - 🤝  I'm open to collaborating on interesting projects
 
