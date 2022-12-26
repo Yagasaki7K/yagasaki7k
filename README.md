@@ -25,9 +25,9 @@ Nowadays I decided to focus on my community, [Kalify Community](https://discord.
 
 🤓 Latest Blog Post in Portuguese
 ----------------------------
-- [Dark Mode: LocalStorage, Schema, Button Default ou Local Time?](https://medium.com/@yagasaki7k/dark-mode-localstorage-schema-button-default-ou-local-time-53a3fa38641b)
-- [Testes Unitários: Como e quando usar para iniciantes](https://medium.com/@yagasaki7k/teste-unit%C3%A1rios-como-usar-para-iniciantes-e421916f4077)
-- [React Email de Zeno Rocha](https://medium.com/@yagasaki7k/react-email-de-zeno-rocha-666fd27ed5ce)
-- [Ilustração vs Inteligência Artificial](https://medium.com/@yagasaki7k/ilustra%C3%A7%C3%A3o-vs-intelig%C3%AAncia-artificial-85f77cbe527)
-- [Github Desktop vs WSL](https://medium.com/@yagasaki7k/github-desktop-vs-wsl-774809289376)
-- [Enviando um e-mail usando NextJS ou ReactJS com Fetch](https://medium.com/@yagasaki7k/enviando-um-e-mail-usando-nextjs-ou-reactjs-com-fetch-1715f09d98eb)
+- [Dark Mode: LocalStorage, Schema, Button Default ou Local Time?](https://yagasaki.dev/blog/dark-mode-localstorage-scheme-button-default-ou-local-time)
+- [Testes Unitários: Como e quando usar para iniciantes](https://yagasaki.dev/blog/testes-unitarios-como-e-quando-usar-para-iniciantes)
+- [React Email de Zeno Rocha](https://yagasaki.dev/blog/react-email-de-zeno-rocha)
+- [Ilustração vs Inteligência Artificial](https://yagasaki.dev/blog/ilustracao-vs-inteligencia-artificial)
+- [Github Desktop vs WSL](https://yagasaki.dev/blog/github-desktop-vs-wsl)
+- [Enviando um e-mail usando NextJS ou ReactJS com Fetch](https://yagasaki.dev/blog/enviando-um-email-usando-nextjs-ou-reactjs-com-fetch)
