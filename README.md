@@ -25,11 +25,8 @@ Nowadays I decided to focus on my community, [Kalify Community](https://discord.
 
 🤓 Latest Blog Post in Portuguese
 ----------------------------
+- [Configurando o SEO do Head com Next.js](https://yagasaki.dev/blog/configurando-o-seo-do-head-com-nextjs)
 - [Quando decidir se é melhor trabalhar em um monorepo ou repositórios individuais?](https://yagasaki.dev/blog/quando-decidir-se-e-melhor-trabalhar-em-um-monorepo-ou-repositorios-individuais)
 - [Removendo o Twitter Analytics do Feed](https://yagasaki.dev/blog/removendo-o-twitter-analytics-do-feed)
 - [Dark Mode: LocalStorage, Schema, Button Default ou Local Time?](https://yagasaki.dev/blog/dark-mode-localstorage-scheme-button-default-ou-local-time)
 - [Testes Unitários: Como e quando usar para iniciantes](https://yagasaki.dev/blog/testes-unitarios-como-e-quando-usar-para-iniciantes)
-- [React Email de Zeno Rocha](https://yagasaki.dev/blog/react-email-de-zeno-rocha)
-- [Ilustração vs Inteligência Artificial](https://yagasaki.dev/blog/ilustracao-vs-inteligencia-artificial)
-- [Github Desktop vs WSL](https://yagasaki.dev/blog/github-desktop-vs-wsl)
-- [Enviando um e-mail usando NextJS ou ReactJS com Fetch](https://yagasaki.dev/blog/enviando-um-email-usando-nextjs-ou-reactjs-com-fetch)
