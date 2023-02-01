@@ -23,7 +23,7 @@ Experienced Software Development (Chunnin) and Front-end Developer building scal
 - As a child I developed a team with my cousin and we created: Server on Habbo, Minecraft, GTA San Andreas and GTA V;
 - I am enthusiastic about computers and since I was eight years old I have been working with computers (Windows 96);
 
-Nowadays I decided to focus on my community, [Kalify Community](https://discord.gg/jhSepmE7nN) to grow and teache others developers. In addition to, build solutions from internet like a [Web Essentials](https://webessentials.vercel.app), [Onigiri Hardcore](https://onigirihardcore.vercel.app), [FindYourPet](https://findyourpet.vercel.app), AlôGarapa (in progress) and more [Kalify Projects](https://kalify.vercel.app/projetos)
+Nowadays I decided to focus on my community, [Kalify Community](https://discord.gg/jhSepmE7nN) to grow and teache others developers. In addition to, build solutions from internet like a [Web Essentials](https://webessentials.vercel.app), [Onigiri Hardcore](https://onigirihardcore.vercel.app), [FindYourPet](https://findyourpet.vercel.app), [AlôGarapa](https://alogarapa.vercel.app/) and more [Kalify Projects](https://kalify.vercel.app/projetos)
 
 🤓 Latest Blog Post in Portuguese
 ----------------------------
