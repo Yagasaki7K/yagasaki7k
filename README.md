@@ -35,4 +35,4 @@ Nowadays I decided to focus on my community, [Kalify Community](https://discord.
 
  🎧 What I Listen when I Work?
  ----------------------------
- <p align="center>![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12143229276&width=600)</p>
+ ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12143229276&width=600)
