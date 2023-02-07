@@ -33,6 +33,6 @@ Nowadays I decided to focus on my community, [Kalify Community](https://discord.
 - [Removendo o Twitter Analytics do Feed](https://yagasaki.dev/blog/removendo-o-twitter-analytics-do-feed)
 - [Dark Mode: LocalStorage, Schema, Button Default ou Local Time?](https://yagasaki.dev/blog/dark-mode-localstorage-scheme-button-default-ou-local-time)
 
- 🎧 What I Listen when I Work?
+ 🎧 What I Listen When I Work?
  ----------------------------
  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12143229276&width=600)
