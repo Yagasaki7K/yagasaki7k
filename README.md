@@ -27,11 +27,11 @@ Nowadays I decided to focus on my community, [Kalify Community](https://discord.
 
 🤓 Latest Blog Post in Portuguese
 ----------------------------
+- [Introdução ao Git e GitHub para iniciantes](https://yagasaki.dev/blog/introdu%C3%A7%C3%A3o-ao-git-e-git-hub-para-iniciantes)
 - [Como usar o uTorrent para iniciantes](https://yagasaki.dev/blog/como-usar-o-utorrent-para-iniciantes)
 - [Recebendo mensagens de commit no Discord (Webhook)](https://yagasaki.dev/blog/recebendo-mensagens-de-commit-no-discord-webhook)
 - [Rodando Docker no Windows sem Docker Desktop](https://yagasaki.dev/blog/rodando-docker-no-windows-sem-docker-desktop)
 - [Configurando o SEO do Head com Next.js](https://yagasaki.dev/blog/configurando-o-seo-do-head-com-nextjs)
-- [Quando decidir se é melhor trabalhar em um monorepo ou repositórios individuais?](https://yagasaki.dev/blog/quando-decidir-se-e-melhor-trabalhar-em-um-monorepo-ou-repositorios-individuais)
 
  🎧 What I Listen When I Work?
  ----------------------------
