@@ -23,15 +23,17 @@ Experienced Software Development (Jounin/上忍) and Front-end Developer buildin
 - As a child I developed a team with my cousin and we created: Server on Habbo, Minecraft, GTA San Andreas and GTA V;
 - I am enthusiastic about computers and since I was eight years old I have been working with computers (Windows 96);
 
+How to define what level of development I am? Reading [Ninja Developer](https://github.com/Yagasaki7K/ninja-developer)
+
 Nowadays I decided to focus on my community, [Kalify Community](https://discord.gg/jhSepmE7nN) to grow and teache others developers. In addition to, build solutions from internet like a [Web Essentials](https://webessentials.vercel.app), [Onigiri Hardcore](https://onigirihardcore.vercel.app), [FindYourPet](https://findyourpet.vercel.app), [AlôGarapa](https://alogarapa.vercel.app/) and more [Kalify Projects](https://kalify.vercel.app/projetos)
 
 🤓 Latest Blog Post in Portuguese
 ----------------------------
+- [Tudo mudou para os desenvolvedores em React.js](https://yagasaki.dev/blog/tudo-mudou-para-os-desenvolvedores-em-react-js)
+- [Como contribuir para projetos de código aberto – um guia para iniciantes](https://yagasaki.dev/blog/como-contribuir-para-projetos-de-c%C3%B3digo-aberto-um-guia-para-iniciantes)
 - [Como transformar seu website em um Progressive Web Application (PWA)](https://yagasaki.dev/blog/como-transformar-seu-website-em-um-progressive-web-application-pwa)
 - [Introdução ao Git e GitHub para iniciantes](https://yagasaki.dev/blog/introdu%C3%A7%C3%A3o-ao-git-e-git-hub-para-iniciantes)
 - [Como usar o uTorrent para iniciantes](https://yagasaki.dev/blog/como-usar-o-utorrent-para-iniciantes)
-- [Recebendo mensagens de commit no Discord (Webhook)](https://yagasaki.dev/blog/recebendo-mensagens-de-commit-no-discord-webhook)
-- [Rodando Docker no Windows sem Docker Desktop](https://yagasaki.dev/blog/rodando-docker-no-windows-sem-docker-desktop)
 
  🎧 What I Listen When I Work?
  ----------------------------
