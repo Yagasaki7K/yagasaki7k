@@ -3,7 +3,7 @@
 <img src="https://github.com/tairosonloa/tairosonloa/blob/main/assets/wave.gif?raw=true" width="25px"/> Hi! My name is Anderson “Yagasaki” Marlon
 ----------------------------
 
-Experienced Software Development (Chunnin) and Front-end Developer building scalable systems and applications in the Financial Technology (Fintech), Affiliate System, Brewery, Healthcare, Journalism, Sustainability, Sales/Entrepreneurship, Music, Podcasts, Communication, Sustainability and eSports (Electronic Sports).
+Experienced Software Development (Jounin/上忍) and Front-end Developer building scalable systems and applications in the Financial Technology (Fintech), Affiliate System, Brewery, Healthcare, Journalism, Sustainability, Sales/Entrepreneurship, Music, Podcasts, Communication, Sustainability and eSports (Electronic Sports).
 
 - 🌍  I'm born and based in Campinas, Brazil
 - 🖥️  You can see my portfolio at [official website](http://yagasaki.vercel.app/about)
