@@ -1,4 +1,4 @@
-<!-- <img src="https://user-images.githubusercontent.com/23272064/214746886-f454923b-d2c4-4609-9251-cb7c82d8bee7.png"/> -->
+<img src="https://pbs.twimg.com/profile_banners/994763945331384320/1682429466/1500x500"/>
 
 <img src="https://github.com/tairosonloa/tairosonloa/blob/main/assets/wave.gif?raw=true" width="25px"/> Hi! My name is Anderson “Yagasaki” Marlon
 ----------------------------
