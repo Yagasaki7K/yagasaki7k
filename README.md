@@ -29,11 +29,11 @@ Nowadays I decided to focus on my community, [Kalify Community](https://discord.
 
 🤓 Latest Blog Post in Portuguese
 ----------------------------
+- [O mínimo que você precisa saber para iniciar um projeto em TypeScript](https://yagasaki.dev/blog/o-minimo-que-voce-precisa-saber-para-iniciar-um-projeto-em-typescript)
 - [Dando update no NodeJS - um tutorial fácil e rápido](https://yagasaki.dev/blog/dando-update-no-node-js-um-tutorial-f%C3%A1cil-e-r%C3%A1pido)
 - [Tudo mudou para os desenvolvedores em React.js](https://yagasaki.dev/blog/tudo-mudou-para-os-desenvolvedores-em-react-js)
 - [Como contribuir para projetos de código aberto – um guia para iniciantes](https://yagasaki.dev/blog/como-contribuir-para-projetos-de-c%C3%B3digo-aberto-um-guia-para-iniciantes)
 - [Como transformar seu website em um Progressive Web Application (PWA)](https://yagasaki.dev/blog/como-transformar-seu-website-em-um-progressive-web-application-pwa)
-- [Introdução ao Git e GitHub para iniciantes](https://yagasaki.dev/blog/introdu%C3%A7%C3%A3o-ao-git-e-git-hub-para-iniciantes)
 
  🎧 What I Listen When I Work?
  ----------------------------
