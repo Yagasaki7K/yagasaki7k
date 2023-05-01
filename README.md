@@ -16,6 +16,7 @@ Experienced Software Jounin Development and Front-end Developer building scalabl
 🚀 Curiosities about me
 ----------------------------
 
+- I'm 2nd Kup (조교님) on Taekwondo (대권도) - [You can read more on it here](https://yagasaki.dev/taekwondo)
 - Basic Introduction to Computer Science by Harvard
 - I took third place in the AMBEV Hackathon in 2020;
 - I like to teach and learn with people;
