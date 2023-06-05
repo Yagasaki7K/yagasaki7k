@@ -8,7 +8,7 @@ Experienced Jounin Software Development and Front-end Developer building scalabl
 - 🌍  I'm born and based in Campinas, Brazil
 - 🖥️  You can see my portfolio at [official website](http://yagasaki.vercel.app/about)
 - ✉️  You can contact me at [anderson18.marlon@gmail.com](mailto:anderson18.marlon@gmail.com)
-- 🚀  I'm currently Jounin Software Developer @ Stone Co.
+- 🚀  I'm currently Looking for a Job
 - 🤓  I'm know about ReactJS, NextJS, Typescript, Styled Components, SASS, Firebase & Docker.
 - 🧠  I'm learning about GraphQL, MongoDB, React Native and Electron
 - 🤝  I'm open to collaborating on interesting projects
