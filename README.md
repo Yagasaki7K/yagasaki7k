@@ -26,7 +26,7 @@ Experienced Software Developer with experience building systems and applications
 
 How to define what level of development I am? Reading [Ninja Developer](https://github.com/Yagasaki7K/ninja-developer)
 
-Nowadays I decided to focus on my community, [Kalify Community](https://discord.gg/jhSepmE7nN) to grow and teache others developers. In addition to, build solutions from internet like a [Web Essentials](https://webessentials.vercel.app), [Onigiri Hardcore](https://onigirihardcore.vercel.app), [FindYourPet](https://findyourpet.vercel.app), [AlôGarapa](https://alogarapa.vercel.app/) and more [Kalify Projects](https://kalify.vercel.app/projetos)
+Nowadays I decided to focus on my community, [Kalify Community](https://discord.gg/jhSepmE7nN) to grow and teache others developers. In addition to, build solutions from internet like a [Web Essentials](https://webessentials.vercel.app), [Onigiri Hardcore](https://onigirihardcore.vercel.app), [FindYourPet](https://findyourpet.vercel.app), [Empreguei](https://empreguei.vercel.app/) and more [Kalify Projects](https://kalify.vercel.app/projetos)
 
 🤓 Latest Blog Post in Portuguese
 ----------------------------
