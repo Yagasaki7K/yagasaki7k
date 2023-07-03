@@ -30,11 +30,11 @@ Nowadays I decided to focus on my community, [Kalify Community](https://discord.
 
 🤓 Latest Blog Post in Portuguese
 ----------------------------
+- [Instalando o ZSH e Oh My ZSH no WSL Ubuntu](https://yagasaki.dev/blog/instalando-o-zsh-e-oh-my-zsh-no-wsl-ubuntu)
 - [Como usar o ChatGPT como uma forma de terapia virtual](https://yagasaki.dev/blog/como-usar-o-chat-gpt-como-uma-forma-de-terapia-virtual)
 - [Entendendo o que é uma API e como ela funciona para iniciantes](https://yagasaki.dev/blog/entendendo-o-que-e-uma-api-e-como-ela-funciona-para-iniciantes)
 - [Apresentação de Projetos e Primeiros Passos com o GitHub Pages](https://yagasaki.dev/blog/apresentacao-de-projetos-e-primeiros-passos-com-o-git-hub-pages)
 - [O mínimo que você precisa saber para iniciar um projeto em TypeScript](https://yagasaki.dev/blog/o-minimo-que-voce-precisa-saber-para-iniciar-um-projeto-em-typescript)
-- [Dando update no NodeJS - um tutorial fácil e rápido](https://yagasaki.dev/blog/dando-update-no-node-js-um-tutorial-f%C3%A1cil-e-r%C3%A1pido)
 
  🎧 What I Listen When I Work?
  ----------------------------
