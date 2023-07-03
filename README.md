@@ -10,7 +10,7 @@ Experienced Software Developer with experience building systems and applications
 - ✉️  You can contact me at [anderson18.marlon@gmail.com](mailto:anderson18.marlon@gmail.com)
 - 🚀  I'm currently looking for a job
 - 🤓  I'm know about ReactJS, NextJS, Typescript, Styled Components, Firebase & Docker.
-- 🧠  I'm learning about GraphQL & MongoDB
+- 🧠  I'm learning about GraphQL, PostgreSQL & MongoDB
 - 🤝  I'm open to collaborating on interesting projects
 
 🚀 Curiosities about me
