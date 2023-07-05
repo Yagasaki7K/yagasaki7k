@@ -1,9 +1,9 @@
 <!-- <img src="https://pbs.twimg.com/profile_banners/994763945331384320/1683254608/1500x500"/> -->
 
-<img src="https://github.com/tairosonloa/tairosonloa/blob/main/assets/wave.gif?raw=true" width="25px"/> Hi! My name is Anderson “Yagasaki” Marlon
+<img src="https://github.com/tairosonloa/tairosonloa/blob/main/assets/wave.gif?raw=true" width="25px"/> Hi! YAGASAKI 矢ヶ崎-KATSURAGI -葛城
 ----------------------------
 
-Experienced Software Developer with experience building systems and applications scalable in the industries of Chatbot, Artificial Intelligence, Financial Technology (Fintech), Affiliates, Brewery, Health, Journalism, Sustainability, Sales / Entrepreneurship, Podcasts and Electronic Sport Scenario.
+Software Developer with experience building systems and applications scalable in the industries of Chatbot, Artificial Intelligence, Financial Technology (Fintech), Affiliates, Brewery, Health, Journalism, Sustainability, Sales / Entrepreneurship, Podcasts and Electronic Sport Scenario.
 
 - 🌍  I'm born and based in Campinas, Brazil
 - 🖥️  You can see my portfolio at [official website](http://yagasaki.vercel.app/about)
@@ -12,6 +12,8 @@ Experienced Software Developer with experience building systems and applications
 - 🤓  I'm know about ReactJS, NextJS, Typescript, Styled Components, Firebase & Docker.
 - 🧠  I'm learning about GraphQL, PostgreSQL & MongoDB
 - 🤝  I'm open to collaborating on interesting projects
+- 💬  Ask me about anything!
+- 🍙  Japanese culture fan
 
 🚀 Curiosities about me
 ----------------------------
