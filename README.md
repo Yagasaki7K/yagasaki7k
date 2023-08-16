@@ -18,7 +18,7 @@
 🚀 Curiosities about me
 ----------------------------
 
-- I'm 2nd Kup (조교님) on Taekwondo (대권도) - [You can read more on it here](https://yagasaki.dev/taekwondo)
+- I'm 1st Kup on Taekwondo (대권도) - [You can read more on it here](https://yagasaki.dev/taekwondo)
 - Basic Introduction to Computer Science by Harvard
 - I took third place in the AMBEV Hackathon in 2020;
 - I like to teach and learn with people;
@@ -32,11 +32,11 @@ Nowadays I decided to focus on my community, [Kalify Community](https://discord.
 
 🤓 Latest Blog Post in Portuguese
 ----------------------------
+- [Frequently Asked Questions](https://yagasaki.dev/blog/faq)
 - [Instalando o ZSH e Oh My ZSH no WSL Ubuntu](https://yagasaki.dev/blog/instalando-o-zsh-e-oh-my-zsh-no-wsl-ubuntu)
 - [Como usar o ChatGPT como uma forma de terapia virtual](https://yagasaki.dev/blog/como-usar-o-chat-gpt-como-uma-forma-de-terapia-virtual)
 - [Entendendo o que é uma API e como ela funciona para iniciantes](https://yagasaki.dev/blog/entendendo-o-que-e-uma-api-e-como-ela-funciona-para-iniciantes)
 - [Apresentação de Projetos e Primeiros Passos com o GitHub Pages](https://yagasaki.dev/blog/apresentacao-de-projetos-e-primeiros-passos-com-o-git-hub-pages)
-- [O mínimo que você precisa saber para iniciar um projeto em TypeScript](https://yagasaki.dev/blog/o-minimo-que-voce-precisa-saber-para-iniciar-um-projeto-em-typescript)
 
  🎧 What I Listen When I Work?
  ----------------------------
