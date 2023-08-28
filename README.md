@@ -32,11 +32,11 @@ Nowadays I decided to focus on my community, [Kalify Community](https://discord.
 
 🤓 Latest Blog Post in Portuguese
 ----------------------------
+- [Guia de Comandos Rocketchat para Iniciantes](https://yagasaki.dev/blog/guia-de-comandos-rocketchat-para-iniciantes)
+- [Integrando seu chat com o Rocketchat Omnichannel](https://yagasaki.dev/blog/integrando-seu-chat-com-o-rocketchat-omnichannel)
 - [Frequently Asked Questions](https://yagasaki.dev/blog/faq)
 - [Instalando o ZSH e Oh My ZSH no WSL Ubuntu](https://yagasaki.dev/blog/instalando-o-zsh-e-oh-my-zsh-no-wsl-ubuntu)
 - [Como usar o ChatGPT como uma forma de terapia virtual](https://yagasaki.dev/blog/como-usar-o-chat-gpt-como-uma-forma-de-terapia-virtual)
-- [Entendendo o que é uma API e como ela funciona para iniciantes](https://yagasaki.dev/blog/entendendo-o-que-e-uma-api-e-como-ela-funciona-para-iniciantes)
-- [Apresentação de Projetos e Primeiros Passos com o GitHub Pages](https://yagasaki.dev/blog/apresentacao-de-projetos-e-primeiros-passos-com-o-git-hub-pages)
 
  🎧 What I Listen When I Work?
  ----------------------------
