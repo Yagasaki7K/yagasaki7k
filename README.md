@@ -1,9 +1,9 @@
 <!-- <img src="https://pbs.twimg.com/profile_banners/994763945331384320/1683254608/1500x500"/> -->
 
-<img src="https://github.com/tairosonloa/tairosonloa/blob/main/assets/wave.gif?raw=true" width="25px"/> Hi! YAGASAKI 矢ヶ崎-KATSURAGI -葛城
+Hi! YAGASAKI 矢ヶ崎-KATSURAGI -葛城
 ----------------------------
 
-ソフトウェア開発者-SOFTWARE DEVELOPER with experience building systems and applications scalable in the industries of Chatbot, Artificial Intelligence, Financial Technology (Fintech), Affiliates, Brewery, Health, Journalism, Sustainability, Sales / Entrepreneurship, Podcasts and Electronic Sport Scenario.
+<img src="https://github.com/tairosonloa/tairosonloa/blob/main/assets/wave.gif?raw=true" width="25px"/> Hi! Who I am? ソフトウェア開発者-SOFTWARE DEVELOPER with experience building systems and applications scalable in the industries of Chatbot, Artificial Intelligence, Financial Technology (Fintech), Affiliates, Brewery, Health, Journalism, Sustainability, Sales / Entrepreneurship, Podcasts and Electronic Sport Scenario.
 
 - 🌍  I'm born and based in Campinas, Brazil
 - 🖥️  You can see my portfolio at [official website](http://yagasaki.vercel.app/about)
@@ -32,11 +32,11 @@ Nowadays I decided to focus on my community, [Kalify Community](https://discord.
 
 🤓 Latest Blog Post in Portuguese
 ----------------------------
+- [Bun, o compilador JavaScript mais rápido do mundo é lançado oficialmente](https://yagasaki.dev/blog/bun-o-compilador-javascript-mais-rapido-do-mundo-e-lancado-oficialmente)
 - [ContextAPI - Como criar, como usar e como alimentar para iniciantes](https://yagasaki.dev/blog/context-api-como-criar-como-usar-e-como-alimentar-para-iniciantes)
 - [Guia Detalhado - Configuração do Rocketchat no Azure com Funcionalidades Avançadas](https://yagasaki.dev/blog/guia-detalhado-configura%C3%A7%C3%A3o-do-rocket-chat-no-azure-com-funcionalidades-avan%C3%A7adas)
 - [Guia de Comandos Rocketchat para Iniciantes](https://yagasaki.dev/blog/guia-de-comandos-rocketchat-para-iniciantes)
 - [Integrando seu chat com o Rocketchat Omnichannel](https://yagasaki.dev/blog/integrando-seu-chat-com-o-rocketchat-omnichannel)
-- [Frequently Asked Questions](https://yagasaki.dev/blog/faq)
 
  🎧 What I Listen When I Work?
  ----------------------------
