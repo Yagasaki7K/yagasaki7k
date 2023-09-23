@@ -1,10 +1,9 @@
 <!-- <img src="https://pbs.twimg.com/profile_banners/994763945331384320/1683254608/1500x500"/> -->
 
-Hi! YAGASAKI 矢ヶ崎-KATSURAGI -葛城
+YAGASAKI 矢ヶ崎-KATSURAGI -葛城
 ----------------------------
 
-<img src="https://github.com/tairosonloa/tairosonloa/blob/main/assets/wave.gif?raw=true" width="25px"/> Hi! Who I am? 
-ソフトウェア開発者-SOFTWARE DEVELOPER with experience building systems and applications scalable in the industries of Chatbot, Artificial Intelligence, Financial Technology (Fintech), Affiliates, Brewery, Health, Journalism, Sustainability, Sales / Entrepreneurship, Podcasts and Electronic Sport Scenario.
+Software & Frontend Developer with experience building systems and applications scalable in the industries of Chatbot, Artificial Intelligence, Financial Technology (Fintech), Affiliates, Brewery, Health, Journalism, Sustainability, Sales / Entrepreneurship, Podcasts and Electronic Sport Scenario.
 
 - 🌍  I'm born and based in Campinas, Brazil
 - 🖥️  You can see my portfolio at [official website](http://yagasaki.vercel.app/about)
