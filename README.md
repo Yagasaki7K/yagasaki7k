@@ -2,6 +2,7 @@
 
 YAGASAKI 矢ヶ崎-KATSURAGI -葛城
 ----------------------------
+> Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn
 
 Software Developer & Frontend Specialist with experience building systems and applications scalable in the industries of Chatbot, Artificial Intelligence, Financial Technology (Fintech), Affiliates, Brewery, Health, Journalism, Sustainability, Sales / Entrepreneurship, Podcasts, Advocate, Solutions Tech and Electronic Sport Scenario.
 
