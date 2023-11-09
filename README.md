@@ -4,14 +4,14 @@ YAGASAKI 矢ヶ崎-KATSURAGI -葛城
 ----------------------------
 > Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn
 
-Software Developer & Frontend Specialist with experience building systems and applications scalable in the industries of Chatbot, Artificial Intelligence, Financial Technology (Fintech), Affiliates, Brewery, Health, Journalism, Sustainability, Sales / Entrepreneurship, Podcasts, Advocate, Solutions Tech and Electronic Sport Scenario.
+Software Developer & Frontend Specialist with experience building systems and applications scalable in the industries of Chatbot, Artificial Intelligence, Financial Technology (Fintech), Affiliates, Brewery, Health, Journalism, Sustainability, Sales / Entrepreneurship, Podcasts, Advocate, Solutions Tech, Referral Marketing, Government Solutions Assistance and Electronic Sport Scenario.
 
 - 🌍  I'm born and based in Campinas, Brazil
 - 🖥️  You can see my portfolio at [official website](http://yagasaki.vercel.app/about)
 - ✉️  You can contact me at [anderson18.marlon@gmail.com](mailto:anderson18.marlon@gmail.com)
 - 🚀  I'm currently looking for a job
 - 🤓  I'm know about ReactJS, NextJS, Typescript, Styled Components, Firebase & Docker.
-- 🧠  I'm learning about GraphQL, PostgreSQL & MongoDB
+- 🧠  I'm learning about NestJS, Java & GraphQL
 - 🤝  I'm open to collaborating on interesting projects
 - 💬  Ask me about anything!
 - 🍙  Japanese culture fan
