@@ -51,7 +51,7 @@ Only projects that I built on my own or together with the community.
     - Web application to check web address for purchases and whether the link is secure
 - [RunInLinux](https://runinlinux.vercel.app/) - [Repository](https://github.com/Yagasaki7K/website-runinlinux)
     - A list of games verified by the community to identify whether or not the game runs on a Linux distro.
-- Ninja Developer - [Repository](https://github.com/Yagasaki7K/ninja-developer)
+- [Ninja Developer](https://github.com/Yagasaki7K/ninja-developer/blob/master/README.md) - [Repository](https://github.com/Yagasaki7K/ninja-developer)
     - A naming concept for developers in the style of Konohagakure.
 - [(NSFW) Rabbit Hole]()
     - An online website for consuming adult content.
