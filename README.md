@@ -10,8 +10,8 @@ Front-end & Software Developer with experience building systems and applications
 - 🖥️  You can see my portfolio at [official website](http://yagasaki.vercel.app/about)
 - ✉️  You can contact me at [anderson18.marlon@gmail.com](mailto:anderson18.marlon@gmail.com)
 - 🚀  I'm currently looking for a job
-- 🤓  I know about ReactJS, NextJS, Typescript, Styled Components, Firebase & Docker.
-- 🧠  I'm learning about NestJS, Java & GraphQL
+- 🤓  I know about NextJS, Typescript, Styled Components, Rocketchat, Firebase & Docker.
+- 🧠  I'm learning about NestJS
 - 🤝  I'm open to collaborating on interesting projects
 - 💬  Ask me about anything!
 - 🍙  Japanese culture fan
