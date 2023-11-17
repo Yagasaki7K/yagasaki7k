@@ -53,7 +53,7 @@ Only projects that I built on my own or together with the community.
     - A list of games verified by the community to identify whether or not the game runs on a Linux distro.
 - [Ninja Developer](https://github.com/Yagasaki7K/ninja-developer/blob/master/README.md) - [Repository](https://github.com/Yagasaki7K/ninja-developer)
     - A naming concept for developers in the style of Konohagakure.
-- [(NSFW / +18) Rabbit Hole](https://therabbithole.vercel.app/)
+- [(NSFW / +18) RabbitHole](https://therabbithole.vercel.app/)
     - An online website for consuming adult content.
 - [Newsletterchamps](https://newsletterchamps.vercel.app/) (Outdated) - [Repository](https://github.com/Yagasaki7K/website-newsletterchamps)
     - A website to see the day's news directly from Filipe Dischamps' Newsletter.
