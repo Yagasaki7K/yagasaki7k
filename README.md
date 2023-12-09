@@ -19,7 +19,7 @@ Front-end & Software Developer with experience building systems and applications
 🚀 Curiosities about me
 ----------------------------
 
-- I'm 1st Kup on Taekwondo (대권도) - [You can read more on it here](https://yagasaki.dev/taekwondo)
+- I'm 1st Dan (Black Belt) on Taekwondo (대권도) - [You can read more on it here](https://yagasaki.dev/taekwondo)
 - Basic Introduction to Computer Science by Harvard
 - I took third place in the AMBEV Hackathon in 2020;
 - I like to teach and learn with people;
