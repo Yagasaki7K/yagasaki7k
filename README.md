@@ -60,11 +60,11 @@ Only projects that I built on my own or together with the community.
 
 🤓 Latest Blog Post in Portuguese
 ----------------------------
+- [Taekwondo - Eu me tornei faixa preta](https://yagasaki.dev/blog/taekwondo-black-belt)
 - [Como posso aprender programação em 2024](https://yagasaki.dev/blog/como-posso-aprender-programacao)
 - [Primeiros passos com Jest, o framework de teste Javascript](https://yagasaki.dev/blog/primeiros-passos-com-jest-o-framework-de-teste-javascript)
 - [Bun, o compilador JavaScript mais rápido do mundo é lançado oficialmente](https://yagasaki.dev/blog/bun-o-compilador-javascript-mais-rapido-do-mundo-e-lancado-oficialmente)
 - [ContextAPI - Como criar, como usar e como alimentar para iniciantes](https://yagasaki.dev/blog/context-api-como-criar-como-usar-e-como-alimentar-para-iniciantes)
-- [Guia Detalhado - Configuração do Rocketchat no Azure com Funcionalidades Avançadas](https://yagasaki.dev/blog/guia-detalhado-configura%C3%A7%C3%A3o-do-rocket-chat-no-azure-com-funcionalidades-avan%C3%A7adas)
 
  🎧 What I Listen When I Work?
  ----------------------------
