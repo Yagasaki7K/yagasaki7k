@@ -14,8 +14,7 @@ Front-end & Software Developer with experience building systems and applications
 - 🧠  I'm learning about NestJS
 - 🤝  I'm open to collaborating on interesting projects
 - 💬  Ask me about anything!
-- 🚘  Drift driver in his spare time by NEON漂
-- 🍙  Japanese culture fan
+
 
 🚀 Curiosities about me
 ----------------------------
@@ -23,10 +22,12 @@ Front-end & Software Developer with experience building systems and applications
 - I'm 1st Dan (Black Belt) on Taekwondo (대권도) - [You can read more on it here](https://yagasaki.dev/taekwondo)
 - Basic Introduction to Computer Science by Harvard
 - I took third place in the AMBEV Hackathon in 2020;
+- Drift driver in his spare time by NEON漂
+- Studying Japanese and culture's fan
 - I like to teach and learn with people;
 - I was the first student council president at my neighborhood school;
-- As a child I developed a team with my cousin and we created: Server on Habbo, Minecraft, GTA San Andreas and GTA V;
-- I am enthusiastic about computers and since I was eight years old I have been working with computers (Windows 96);
+- As a child I developed a team with my cousin and we created: Server on Habbo, Minecraft, GTA San Andreas, RPG Maker and GTA V;
+- I am enthusiastic about computers and since I was eight years old I have been working with computers (Windows 96/98);
 
 How to define what level of development I am? Reading [Ninja Developer](https://github.com/Yagasaki7K/ninja-developer)
 
