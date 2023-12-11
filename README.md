@@ -14,7 +14,7 @@ Front-end & Software Developer with experience building systems and applications
 - 🧠  I'm learning about NestJS
 - 🤝  I'm open to collaborating on interesting projects
 - 💬  Ask me about anything!
-- 🚘  Drift driver in his spare time
+- 🚘  Drift driver in his spare time by NEON漂
 - 🍙  Japanese culture fan
 
 🚀 Curiosities about me
