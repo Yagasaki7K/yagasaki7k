@@ -15,7 +15,6 @@ Front-end & Software Developer with experience building systems and applications
 - 🤝  I'm open to collaborating on interesting projects
 - 💬  Ask me about anything!
 
-
 🚀 Curiosities about me
 ----------------------------
 
@@ -32,6 +31,10 @@ Front-end & Software Developer with experience building systems and applications
 How to define what level of development I am? Reading [Ninja Developer](https://github.com/Yagasaki7K/ninja-developer)
 
 Nowadays I decided to focus on my community, [Kalify Community](https://discord.gg/jhSepmE7nN) to grow and teache others developers. In addition to, build solutions from internet like a [Web Essentials](https://webessentials.vercel.app), [Onigiri Hardcore](https://onigirihardcore.vercel.app), [FindYourPet](https://findyourpet.vercel.app), [Empreguei](https://empreguei.vercel.app/) and more [Kalify Projects](https://kalify.vercel.app/projetos)
+
+📂 Companies and brands I've worked for or freelanced for
+----------------------------
+ABREF Campinas • Alexandre Cabral • Companhia de Comando (11ª Bda Inf L) • Crowns Burger • Cumpadre's Snooker Bar • Doglivery • Donna Pandora • JG Burguer • Standard Stores / Sneakers • Maicon Queiroz - Centro de Treinamento • Marcos Alves Advocacia • Natus Nexu • Newlights City • Marry Perry Paris • Pipocas Marãna • Rota 320 - Shakes & Burgers • Sabrina Ceneme • Santa Fé Barbecue • Stefani Folhados • William Risati • YouConnectStart • 430º Pizza Napoletana • Doutora Suzikelli Souza • PWR Crossfit • Santabike • Irene Moreira • Unna Negócios Imobiliários • DonnaH Store • Thaise Rizzali • VMM Sports • Zmile Clinic • Whatsupper • Enertrafo
 
 📂 Stuff that I made
 ----------------------------
