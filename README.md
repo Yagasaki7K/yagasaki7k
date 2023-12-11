@@ -4,14 +4,14 @@ YAGASAKI 矢ヶ崎-KATSURAGI -葛城
 ----------------------------
 > Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn
 
-Front-end & Software Developer with experience building systems and applications scalable in the industries of Chatbot, Artificial Intelligence, Financial Technology (Fintech), Affiliates, Brewery, Health, Journalism, Sustainability, Sales / Entrepreneurship, Podcasts, Advocate, Solutions Tech, Referral Marketing, Government Solutions Assistance and Electronic Sport Scenario.
+Software Developer & Front-end with experience building systems and applications scalable in the industries of Chatbot, Artificial Intelligence, Financial Technology (Fintech), Affiliates, Brewery, Health, Journalism, Sustainability, Sales / Entrepreneurship, Podcasts, Advocate, Solutions Tech, Referral Marketing, Government Solutions Assistance and Electronic Sport Scenario.
 
-- 🌍  I was born and I am based in Campinas, Brazil
+- 🌍  I was born and based in Campinas, Brazil
 - 🖥️  You can see my portfolio at [official website](http://yagasaki.vercel.app/about)
-- ✉️  You can contact me at [anderson18.marlon@gmail.com](mailto:anderson18.marlon@gmail.com)
-- 🚀  I'm currently looking for a job
+- ✉️  You can contact me at [anderson18.marlon@gmail.com](mailto:anderson18.marlon@gmail.com) or [yagasakiwanderlust@gmail.com](mailto:yagasakiwanderlust@gmail.com)
+- 🚀  I'm currently looking for a job (Based in Consolidation of Labor Laws on Brazil)
 - 🤓  I know about NextJS, Typescript, Styled Components, Rocketchat, Firebase & Docker.
-- 🧠  I'm learning about NestJS
+- 🧠  I'm learning about NestJS & GraphQL
 - 🤝  I'm open to collaborating on interesting projects
 - 💬  Ask me about anything!
 
@@ -19,16 +19,16 @@ Front-end & Software Developer with experience building systems and applications
 ----------------------------
 
 - I'm 1st Dan (Black Belt) on Taekwondo (대권도) - [You can read more on it here](https://yagasaki.dev/taekwondo)
-- Basic Introduction to Computer Science by Harvard
+- Completed Harvard's Basic Introduction to Computer Science;
 - I took third place in the AMBEV Hackathon in 2020;
-- Drift driver in his spare time by NEON漂
-- Studying Japanese and culture's fan
+- Drift driver in his spare time with the NEON漂;
+- Studying Japanese and culture's fan;
 - I like to teach and learn with people;
 - I was the first student council president at my neighborhood school;
 - As a child I developed a team with my cousin and we created: Server on Habbo, Minecraft, GTA San Andreas, RPG Maker and GTA V;
 - I am enthusiastic about computers and since I was eight years old I have been working with computers (Windows 96/98);
 
-How to define what level of development I am? Reading [Ninja Developer](https://github.com/Yagasaki7K/ninja-developer)
+I'm Jounin Developer. How to define what level of development I am? Reading [Ninja Developer](https://github.com/Yagasaki7K/ninja-developer)
 
 Nowadays I decided to focus on my community, [Kalify Community](https://discord.gg/jhSepmE7nN) to grow and teache others developers. In addition to, build solutions from internet like a [Web Essentials](https://webessentials.vercel.app), [Onigiri Hardcore](https://onigirihardcore.vercel.app), [FindYourPet](https://findyourpet.vercel.app), [Empreguei](https://empreguei.vercel.app/) and more [Kalify Projects](https://kalify.vercel.app/projetos)
 
@@ -44,18 +44,18 @@ Only projects that I built on my own or together with the community.
     - A place to find softwares and utilities after format your computer
 - [Onigiri Hardcore](https://onigirihardcore.com.br/) - [Repository](https://github.com/Yagasaki7K/website-onigirihardcore)
     - A news portal about anime, games, films and series and technology.
-- [Kalify Community](https://kalify.vercel.app/) - [Discord](https://discord.gg/jhSepmE7nN)
-    - Open source community of developers and support for those just starting out
 - [FindYourPet](https://findyourpet.vercel.app/) - [Repository](https://github.com/Yagasaki7K/website-findyourpet)
     - Web application to inform about missing, found and adopted animals.
+- [Kalify Community](https://kalify.vercel.app/) - [Discord](https://discord.gg/jhSepmE7nN)
+    - Open source community of developers and support for those just starting out
 - [AlôGarapa](https://alogarapa.vercel.app/) - [Repository](https://github.com/Yagasaki7K/website-alogarapa)
     - Web application to inform about sugarcane juice near the region.
 - [Empreguei](https://empreguei.vercel.app/) - [Repository](https://github.com/Yagasaki7K/website-empreguei)
     - Web application to register and find job vacancies quickly and without ads.
-- [SC4MM3D](https://sc4mm3d.vercel.app/) - [Repository](https://github.com/Yagasaki7K/website-sc4mm3d)
-    - Web application to check web address for purchases and whether the link is secure
 - [RunInLinux](https://runinlinux.vercel.app/) - [Repository](https://github.com/Yagasaki7K/website-runinlinux)
     - A list of games verified by the community to identify whether or not the game runs on a Linux distro.
+- [SC4MM3D](https://sc4mm3d.vercel.app/) - [Repository](https://github.com/Yagasaki7K/website-sc4mm3d)
+    - Web application to check web address for purchases and whether the link is secure
 - [Ninja Developer](https://github.com/Yagasaki7K/ninja-developer/blob/master/README.md) - [Repository](https://github.com/Yagasaki7K/ninja-developer)
     - A naming concept for developers in the style of Konohagakure.
 - [(NSFW / +18) RabbitHole](https://therabbithole.vercel.app/)
