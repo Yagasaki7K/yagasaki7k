@@ -58,8 +58,6 @@ Only projects that I built on my own or together with the community.
     - Web application to check web address for purchases and whether the link is secure
 - [Ninja Developer](https://github.com/Yagasaki7K/ninja-developer/blob/master/README.md) - [Repository](https://github.com/Yagasaki7K/ninja-developer)
     - A naming concept for developers in the style of Konohagakure.
-- [(NSFW / +18) RabbitHole](https://therabbithole.vercel.app/)
-    - An online website for consuming adult content.
 - [Newsletterchamps](https://newsletterchamps.vercel.app/) (Outdated) - [Repository](https://github.com/Yagasaki7K/website-newsletterchamps)
     - A website to see the day's news directly from Filipe Dischamps' Newsletter.
 
