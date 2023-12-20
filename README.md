@@ -1,8 +1,9 @@
 <img src="https://pbs.twimg.com/profile_banners/994763945331384320/1703106608/1500x500"/>
+<!-- Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn -->
 
 YAGASAKI 矢ヶ崎-KATSURAGI -葛城
 ----------------------------
-> Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn
+> You look lonely. I can fix that.
 
 Software Developer & Front-end with experience building systems and applications scalable in the industries of Chatbot, Artificial Intelligence, Financial Technology (Fintech), Affiliates, Brewery, Health, Journalism, Sustainability, Sales / Entrepreneurship, Podcasts, Advocate, Solutions Tech, Referral Marketing, Government Solutions Assistance and Electronic Sport Scenario.
 
