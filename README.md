@@ -61,6 +61,8 @@ Only projects that I built on my own or together with the community.
     - A naming concept for developers in the style of Konohagakure.
 - [Newsletterchamps](https://newsletterchamps.vercel.app/) (Outdated) - [Repository](https://github.com/Yagasaki7K/website-newsletterchamps)
     - A website to see the day's news directly from Filipe Dischamps' Newsletter.
+- [Naruto Inner Power Legacy](https://narutoinnerpower.vercel.app/) - [Discord](https://discord.gg/CYbrHdYaRm)
+    - A game MMORPG 2D Online from Naruto's Universe.
 
 🤓 Latest Blog Post in Portuguese
 ----------------------------
