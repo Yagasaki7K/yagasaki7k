@@ -15,7 +15,7 @@ Software Developer & Front-end with experience building systems and applications
 - 🧠  I'm learning about NestJS & GraphQL
 - 🤝  I'm open to collaborating on interesting projects
 - 💬  Ask me about anything!
-- ☕  You want to sponsor me or [buy me a coffee](https://pixmeacoffee.vercel.app/yagasaki) for my projects?
+- ☕  You want to [sponsor me](https://github.com/sponsors/Yagasaki7K/) or [buy me a coffee](https://pixmeacoffee.vercel.app/yagasaki) for my projects?
 
 🚀 Curiosities about me
 ----------------------------
