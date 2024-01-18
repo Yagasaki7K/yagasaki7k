@@ -1,7 +1,7 @@
 <img src="https://github.com/Yagasaki7K/yagasaki7k/assets/23272064/d8b2a6fb-72ce-4949-9576-595fc219989a"/>
 <!-- Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn -->
 
-YAGASAKI 矢ヶ崎-KATSURAGI -葛城 // 鬼渋谷
+YAGASAKI 矢ヶ崎-KATSURAGI -葛城 / 鬼渋谷
 ----------------------------
 > You look lonely. I can fix that.
 
