@@ -36,7 +36,7 @@ Nowadays I decided to focus on my community, [Kalify Community](https://discord.
 
 📂 Companies and brands I've worked for or freelanced for
 ----------------------------
-ABREF Campinas • Alexandre Cabral • Companhia de Comando (11ª Bda Inf L) • Crowns Burger • Cumpadre's Snooker Bar • Doglivery • Donna Pandora • JG Burguer • Standard Stores / Sneakers • Maicon Queiroz - Centro de Treinamento • Marcos Alves Advocacia • Natus Nexu • Newlights City • Marry Perry Paris • Pipocas Marãna • Rota 320 - Shakes & Burgers • Sabrina Ceneme • Santa Fé Barbecue • Stefani Folhados • William Risati • YouConnectStart • 430º Pizza Napoletana • Doutora Suzikelli Souza • PWR Crossfit • Santabike • Irene Moreira • Unna Negócios Imobiliários • DonnaH Store • Thaise Rizzali • VMM Sports • Zmile Clinic • Cenário Capital • Stone/Linx S.A. • Whatsupper • Enertrafo
+ABREF Campinas • Alexandre Cabral • Cenário Capital • Companhia de Comando (11ª Bda Inf L) • Crowns Burger • Cumpadre's Snooker Bar • Doglivery • Donna Pandora • DonnaH Store • Doutora Suzikelli Souza • Enertrafo • Irene Moreira • JG Burguer • Maicon Queiroz - Centro de Treinamento • Marcos Alves Advocacia • Marry Perry Paris • Natus Nexu • Newlights City • PWR Crossfit • Pipocas Marãna • Rota 320 - Shakes & Burgers • Sabrina Ceneme • Santa Fé Barbecue • Santabike • Standard Stores / Sneakers • Stefani Folhados • Stone/Linx S.A. • Thaise Rizzali • Unna Negócios Imobiliários • VMM Sports • Whatsupper • William Risati • YouConnectStart • Zmile Clinic • 430º Pizza Napoletana
 
 📂 Stuff that I made
 ----------------------------
