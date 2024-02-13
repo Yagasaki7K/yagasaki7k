@@ -11,8 +11,8 @@ YAGASAKI 矢ヶ崎-KATSURAGI -葛城 / 鬼渋谷
 - 🖥️  You can see my portfolio at [official website](http://yagasaki.vercel.app/about)
 - ✉️  You can contact me at [anderson18.marlon@gmail.com](mailto:anderson18.marlon@gmail.com) or [yagasakiwanderlust@gmail.com](mailto:yagasakiwanderlust@gmail.com)
 - 🚀  I'm currently looking for a job (Based in Consolidation of Labor Laws on Brazil)
-- 🤓  I know about NextJS, Typescript, Styled Components, Rocketchat, Firebase & Docker.
-- 🧠  I'm learning about NestJS & GraphQL
+- 🤓  I know about NextJS, Typescript, NestJS, Rocketchat, Firebase, Docker & Styled Components.
+- 🧠  I'm learning about GraphQL & Prisma
 - 🤝  I'm open to collaborating on interesting projects
 - 💬  Ask me about anything!
 - ☕  You want to [sponsor me](https://github.com/sponsors/Yagasaki7K/) or [buy me a coffee](https://pixmeacoffee.vercel.app/yagasaki) for my projects?
