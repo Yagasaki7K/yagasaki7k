@@ -17,6 +17,10 @@ Software Developer & Front-end with experience building systems and applications
 - 💬  Ask me about anything!
 - ☕  You want to [sponsor me](https://github.com/sponsors/Yagasaki7K/) or [buy me a coffee](https://pixmeacoffee.vercel.app/yagasaki) for my projects?
 
+🖥️ GitHub Stats
+----------------------------
+[![yagasaki GitHub stats](https://github-readme-stats.vercel.app/api?username=yagasaki7k&show_icons=true&theme=dracula&counnt_private=true)](https://github.com/yagasaki7k)
+
 🚀 Curiosities about me
 ----------------------------
 
