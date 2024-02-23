@@ -55,6 +55,8 @@ Only projects that I built on my own or together with the community.
     - Web application to inform about missing, found and adopted animals.
 - [Kalify Community](https://kalify.vercel.app/) - [Discord](https://discord.gg/jhSepmE7nN)
     - Open source community of developers and support for those just starting out
+- [Note Text](https://notetext.vercel.app/) - [Repository](https://github.com/Yagasaki7K/app-notetext)
+    - Do a notes and save it on your browser and stay in private.
 - [AlôGarapa](https://alogarapa.vercel.app/) - [Repository](https://github.com/Yagasaki7K/website-alogarapa)
     - Web application to inform about sugarcane juice near the region.
 - [Empreguei](https://empreguei.vercel.app/) - [Repository](https://github.com/Yagasaki7K/website-empreguei)
