@@ -74,6 +74,7 @@ Only projects that I built on my own or together with the community.
 
 🤓 Latest Blog Post in Portuguese
 ----------------------------
+- [Evento do NodeBR em Campinas - Frontend Universe](https://yagasaki.dev/blog/node-br-em-campinas-pelo-frontend-universe)
 - [Curso de Introdução e Contribuição ao Código Aberto](https://yagasaki.dev/blog/curso-de-introducao-e-contribuicao-ao-codigo-aberto)
 - [Desvendando o NestJS, uma jornada para iniciantes](https://yagasaki.dev/blog/desvendando-o-nest-js-uma-jornada-para-iniciantes)
 - [Dimensionando equipes de engenharia por meio de RFCs: anotando as coisas](https://yagasaki.dev/blog/dimensionando-equipes-de-engenharia-por-meio-de-rf-cs-anotando-as-coisas)
