@@ -1,4 +1,5 @@
-<img src="https://github.com/Yagasaki7K/yagasaki7k/assets/23272064/81a0a030-fff9-4314-be04-2355dfb248b8"/>
+![image](https://github.com/Yagasaki7K/yagasaki7k/assets/23272064/2b8d7136-a6cb-48b1-84a7-d04682210912)
+
 <!-- Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn -->
 
 
