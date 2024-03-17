@@ -4,7 +4,7 @@
 <!-- Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn -->
 
 
-YAGASAKI 矢ヶ崎-KATSURAGI -葛城 / 鬼渋谷
+YAGASAKI 矢ヶ崎-KATSURAGI -葛城
 ----------------------------
 > Aww, c'mon, what's the worst that could happen?
 
