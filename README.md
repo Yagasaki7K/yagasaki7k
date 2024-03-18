@@ -76,12 +76,12 @@ Only projects that I built on my own or together with the community.
 
 🤓 Latest Blog Post in Portuguese
 ----------------------------
+- [Notificação automática da Twitch para o Discord](https://yagasaki.dev/blog/notificacao-automatica-da-twitch-para-o-discord)
 - [Cultivar a Semente ou usar um Kit de Ferramentas?](https://yagasaki.dev/blog/cultivar-a-semente-ou-usar-um-kit-de-ferramentas)
 - [Evento do NodeBR em Campinas - Frontend Universe](https://yagasaki.dev/blog/node-br-em-campinas-pelo-frontend-universe)
 - [Curso de Introdução e Contribuição ao Código Aberto](https://yagasaki.dev/blog/curso-de-introducao-e-contribuicao-ao-codigo-aberto)
 - [Desvendando o NestJS, uma jornada para iniciantes](https://yagasaki.dev/blog/desvendando-o-nest-js-uma-jornada-para-iniciantes)
 - [Dimensionando equipes de engenharia por meio de RFCs: anotando as coisas](https://yagasaki.dev/blog/dimensionando-equipes-de-engenharia-por-meio-de-rf-cs-anotando-as-coisas)
-- [RestAPI vs GraphQL - Prós, Contras e Qual Usar?](https://yagasaki.dev/blog/restapi-vs-graphql)
 
  🎧 What I Listen When I Work?
  ----------------------------
