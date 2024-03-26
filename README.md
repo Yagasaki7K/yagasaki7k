@@ -47,10 +47,6 @@ YAGASAKI 矢ヶ崎-KATSURAGI -葛城
 - As a child I developed a team with my cousin and we created: Server on Habbo, Minecraft, GTA San Andreas, RPG Maker and GTA V;
 - I am enthusiastic about computers and since I was eight years old I have been working with computers (Windows 96/98);
 
-<p align="center">
-  <img src="https://github.com/Yagasaki7K/website-cafecomleite/assets/23272064/febb5104-0741-481a-9171-44ff1b2b3e26" alt="café com leite palette" width="400" />
-</p>
-
 I'm Jounin Developer. How to define what level of development I am? Reading [Ninja Developer](https://github.com/Yagasaki7K/ninja-developer)
 
 Nowadays I decided to focus on my community, [Kalify Community](https://discord.gg/jhSepmE7nN) to grow and teache others developers. In addition to, build solutions from internet like a [Web Essentials](https://webessentials.vercel.app), [Onigiri Hardcore](https://onigirihardcore.vercel.app), [FindYourPet](https://findyourpet.vercel.app), [Empreguei](https://empreguei.vercel.app/) and more [Kalify Projects](https://kalify.vercel.app/projetos)
