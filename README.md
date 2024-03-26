@@ -8,10 +8,6 @@ YAGASAKI 矢ヶ崎-KATSURAGI -葛城
 
 <img src="https://github.com/tairosonloa/tairosonloa/blob/main/assets/wave.gif?raw=true" width="15px"/> Hi, I'm **Anderson Marlon**, a Software Developer with experience building systems and applications scalable in the industries of Chatbot, Artificial Intelligence, Financial Technology (Fintech), Affiliates, Brewery, Health, Journalism, Sustainability, Sales / Entrepreneurship, Podcasts, Advocate, Solutions Tech, Referral Marketing, Government Solutions Assistance and Electronic Sport Scenario.
 
-<p align="center">
-  <img src="https://github.com/Yagasaki7K/website-cafecomleite/assets/23272064/febb5104-0741-481a-9171-44ff1b2b3e26" alt="café com leite palette" width="400" />
-</p>
-
 - 🌍  I was born and based in Campinas, Brazil
 - 🖥️  You can see my portfolio at [official website](http://yagasaki.vercel.app/about)
 - ✉️  You can contact me at [anderson18.marlon@gmail.com](mailto:anderson18.marlon@gmail.com) or [yagasakiwanderlust@gmail.com](mailto:yagasakiwanderlust@gmail.com)
