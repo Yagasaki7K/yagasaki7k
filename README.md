@@ -4,8 +4,6 @@
 
 YAGASAKI 矢ヶ崎-KATSURAGI -葛城
 ----------------------------
-> Aww, c'mon, what's the worst that could happen?
-
 <img src="https://github.com/tairosonloa/tairosonloa/blob/main/assets/wave.gif?raw=true" width="15px"/> Hi, I'm **Anderson Marlon**, a Software Developer with experience building systems and applications scalable in the industries of Chatbot, Artificial Intelligence, Financial Technology (Fintech), Affiliates, Brewery, Health, Journalism, Sustainability, Sales / Entrepreneurship, Podcasts, Advocate, Solutions Tech, Referral Marketing, Government Solutions Assistance and Electronic Sport Scenario.
 
 - 🌍  I was born and based in Campinas, Brazil
