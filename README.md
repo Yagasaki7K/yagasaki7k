@@ -84,12 +84,12 @@ Top projects that I built on my own or together with the community.
 
 🤓 Latest Blog Post in Portuguese
 ----------------------------
+- [Como criar um blog usando Github Pages + Obsidian + Quartz](https://yagasaki.dev/blog/como-criar-um-blog-usando-github-pages-obsidian-quartz)
 - [Notificação automática da Twitch para o Discord](https://yagasaki.dev/blog/notificacao-automatica-da-twitch-para-o-discord)
 - [Cultivar a Semente ou usar um Kit de Ferramentas?](https://yagasaki.dev/blog/cultivar-a-semente-ou-usar-um-kit-de-ferramentas)
 - [Evento do NodeBR em Campinas - Frontend Universe](https://yagasaki.dev/blog/node-br-em-campinas-pelo-frontend-universe)
 - [Curso de Introdução e Contribuição ao Código Aberto](https://yagasaki.dev/blog/curso-de-introducao-e-contribuicao-ao-codigo-aberto)
 - [Desvendando o NestJS, uma jornada para iniciantes](https://yagasaki.dev/blog/desvendando-o-nest-js-uma-jornada-para-iniciantes)
-- [Dimensionando equipes de engenharia por meio de RFCs: anotando as coisas](https://yagasaki.dev/blog/dimensionando-equipes-de-engenharia-por-meio-de-rf-cs-anotando-as-coisas)
 
 <p align="center">
   <img src="https://github.com/Yagasaki7K/website-cafecomleite/assets/23272064/febb5104-0741-481a-9171-44ff1b2b3e26" alt="café com leite palette" width="400" />
