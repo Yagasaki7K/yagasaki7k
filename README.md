@@ -61,6 +61,8 @@ ABREF Campinas • Alexandre Cabral • Cenário Capital • Companhia de Comand
 ----------------------------
 Top projects that I built on my own or together with the community.
 
+- [Steamfolio](https://steamfolio.vercel.app/) - [Repository](https://github.com/Yagasaki7K/website-steamfolio)
+  - A customizable portfolio interface in the style of Steam. Using Bun, React and Vite.
 - [Essentials](https://webessentials.com.br) - [Repository](https://github.com/Yagasaki7K/website-essentials)
     - A place to find softwares and utilities after format your computer
 - [Onigiri Hardcore](https://onigirihardcore.com.br/) - [Repository](https://github.com/Yagasaki7K/website-onigirihardcore)
@@ -71,8 +73,6 @@ Top projects that I built on my own or together with the community.
     - Open source community of developers and support for those just starting out
 - [Note Text](https://notetext.vercel.app/) - [Repository](https://github.com/Yagasaki7K/app-notetext)
     - Do a notes and save it on your browser and stay in private.
-- [Empreguei](https://empreguei.vercel.app/) - [Repository](https://github.com/Yagasaki7K/website-empreguei)
-    - Web application to register and find job vacancies quickly and without ads.
 - [Ninja Developer](https://github.com/Yagasaki7K/ninja-developer/blob/master/README.md) - [Repository](https://github.com/Yagasaki7K/ninja-developer)
     - A naming concept for developers in the style of Konohagakure.
 - [Newsletterchamps](https://newsletterchamps.vercel.app/) (Outdated) - [Repository](https://github.com/Yagasaki7K/website-newsletterchamps)
