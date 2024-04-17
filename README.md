@@ -86,9 +86,9 @@ Top projects that I built on my own or together with the community.
 ----------------------------
 - [Conheça o meu bun/yarn commit e facilite a sua vida](https://yagasaki.dev/article/bun-yarn-commit)
 - [Storybook - Como usar e os primeiros passos](https://yagasaki.dev/article/storybook-primeiros-passos)
-- [Evento da Rocketseat junto da minha experiência com Bun](https://yagasaki.dev/article/evento-da-rocketseat-junto-da-minha-experi%C3%AAncia-com-bun)
-- [Como criar um blog usando Github Pages + Obsidian + Quartz](https://yagasaki.dev/article/como-criar-um-blog-usando-github-pages-obsidian-quartz)
-- [Notificação automática da Twitch para o Discord](https://yagasaki.dev/article/notificacao-automatica-da-twitch-para-o-discord)
+- [Evento da Rocketseat junto da minha experiência com Bun](https://yagasaki.dev/article/minha-experiencia-com-bun)
+- [Como criar um blog usando Github Pages + Obsidian + Quartz](https://yagasaki.dev/article/como-criar-seu-blog)
+- [Notificação automática da Twitch para o Discord](https://yagasaki.dev/article/notificacao-automatica-twitch)
 - [Cultivar a Semente ou usar um Kit de Ferramentas?](https://yagasaki.dev/article/cultivar-a-semente-ou-usar-um-kit-de-ferramentas)
 
 <p align="center">
