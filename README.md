@@ -84,12 +84,12 @@ Top projects that I built on my own or together with the community.
 
 🤓 Latest Blog Post in Portuguese
 ----------------------------
-- [Evento da Rocketseat junto da minha experiência com Bun](https://yagasaki.dev/blog/evento-da-rocketseat-junto-da-minha-experi%C3%AAncia-com-bun)
-- [Como criar um blog usando Github Pages + Obsidian + Quartz](https://yagasaki.dev/blog/como-criar-um-blog-usando-github-pages-obsidian-quartz)
-- [Notificação automática da Twitch para o Discord](https://yagasaki.dev/blog/notificacao-automatica-da-twitch-para-o-discord)
-- [Cultivar a Semente ou usar um Kit de Ferramentas?](https://yagasaki.dev/blog/cultivar-a-semente-ou-usar-um-kit-de-ferramentas)
-- [Evento do NodeBR em Campinas - Frontend Universe](https://yagasaki.dev/blog/node-br-em-campinas-pelo-frontend-universe)
-- [Curso de Introdução e Contribuição ao Código Aberto](https://yagasaki.dev/blog/curso-de-introducao-e-contribuicao-ao-codigo-aberto)
+- [Conheça o meu bun/yarn commit e facilite a sua vida](https://yagasaki.dev/article/bun-yarn-commit)
+- [Storybook - Como usar e os primeiros passos](https://yagasaki.dev/article/storybook-primeiros-passos)
+- [Evento da Rocketseat junto da minha experiência com Bun](https://yagasaki.dev/article/evento-da-rocketseat-junto-da-minha-experi%C3%AAncia-com-bun)
+- [Como criar um blog usando Github Pages + Obsidian + Quartz](https://yagasaki.dev/article/como-criar-um-blog-usando-github-pages-obsidian-quartz)
+- [Notificação automática da Twitch para o Discord](https://yagasaki.dev/article/notificacao-automatica-da-twitch-para-o-discord)
+- [Cultivar a Semente ou usar um Kit de Ferramentas?](https://yagasaki.dev/article/cultivar-a-semente-ou-usar-um-kit-de-ferramentas)
 
 <p align="center">
   <img src="https://github.com/Yagasaki7K/website-cafecomleite/assets/23272064/febb5104-0741-481a-9171-44ff1b2b3e26" alt="café com leite palette" width="400" />
