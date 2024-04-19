@@ -84,12 +84,12 @@ Top projects that I built on my own or together with the community.
 
 🤓 Latest Blog Post in Portuguese
 ----------------------------
+- [Como instalar o Windows Subsystem for Linux (WSL)](https://yagasaki.dev/article/como-instalar-o-wsl)
 - [Conheça o meu bun/yarn commit e facilite a sua vida](https://yagasaki.dev/article/bun-yarn-commit)
 - [Storybook - Como usar e os primeiros passos](https://yagasaki.dev/article/storybook-primeiros-passos)
 - [Evento da Rocketseat junto da minha experiência com Bun](https://yagasaki.dev/article/minha-experiencia-com-bun)
 - [Como criar um blog usando Github Pages + Obsidian + Quartz](https://yagasaki.dev/article/como-criar-seu-blog)
 - [Notificação automática da Twitch para o Discord](https://yagasaki.dev/article/notificacao-automatica-twitch)
-- [Cultivar a Semente ou usar um Kit de Ferramentas?](https://yagasaki.dev/article/cultivar-a-semente-ou-usar-um-kit-de-ferramentas)
 
 <p align="center">
   <img src="https://github.com/Yagasaki7K/website-cafecomleite/assets/23272064/febb5104-0741-481a-9171-44ff1b2b3e26" alt="café com leite palette" width="400" />
