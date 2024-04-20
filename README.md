@@ -1,6 +1,4 @@
-![image](https://github.com/Yagasaki7K/yagasaki7k/assets/23272064/b8f76844-e82f-4b4d-8401-5c735be6a4b0)
-
-<!-- Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn -->
+![image](https://github.com/Yagasaki7K/yagasaki7k/assets/23272064/91821576-670d-442e-b452-949a2debb55a)
 
 YAGASAKI 矢ヶ崎-KATSURAGI -葛城
 ----------------------------
