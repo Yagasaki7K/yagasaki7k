@@ -59,6 +59,8 @@ ABREF Campinas • Alexandre Cabral • Cenário Capital • Companhia de Comand
 ----------------------------
 Top projects that I built on my own or together with the community.
 
+- [api-estadosdobrasil](https://www.npmjs.com/package/api-estadosdobrasil) - [Repository](https://github.com/Yagasaki7K/api-estadosdobrasil)
+  - A package to query names of states and their cities.
 - [Steamfolio](https://steamfolio.vercel.app/) - [Repository](https://github.com/Yagasaki7K/website-steamfolio)
   - A customizable portfolio interface in the style of Steam. Using Bun, React and Vite.
 - [Essentials](https://webessentials.com.br) - [Repository](https://github.com/Yagasaki7K/website-essentials)
