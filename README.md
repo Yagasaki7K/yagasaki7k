@@ -84,12 +84,12 @@ Top projects that I built on my own or together with the community.
 
 🤓 Latest Blog Post in Portuguese
 ----------------------------
+- [O que é Lazy Loading e para que serve?](https://yagasaki.dev/article/o-que-e-lazy-loading)
 - [Análise do Playbook de Alekson Fortes](https://yagasaki.dev/article/analise-do-playbook-de-alekson-fortes)
 - [Playbook do Desenvolvimento Profissional Internacional](https://yagasaki.dev/article/playbook-do-desenvolvimento-profissional-internacional)
 - [Como instalar o Windows Subsystem for Linux (WSL)](https://yagasaki.dev/article/como-instalar-o-wsl)
 - [Conheça o meu bun/yarn commit e facilite a sua vida](https://yagasaki.dev/article/bun-yarn-commit)
 - [Storybook - Como usar e os primeiros passos](https://yagasaki.dev/article/storybook-primeiros-passos)
-- [Evento da Rocketseat junto da minha experiência com Bun](https://yagasaki.dev/article/minha-experiencia-com-bun)
 
 <p align="center">
   <img src="https://github.com/Yagasaki7K/website-cafecomleite/assets/23272064/febb5104-0741-481a-9171-44ff1b2b3e26" alt="café com leite palette" width="400" />
