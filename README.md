@@ -13,7 +13,7 @@ YAGASAKI 矢ヶ崎-KATSURAGI -葛城
 - 🤝  I'm open to collaborating on interesting projects
 - 💬  Ask me about anything!
 - ☕  You want to [sponsor me](https://github.com/sponsors/Yagasaki7K/) or [buy me a coffee](https://pixmeacoffee.vercel.app/yagasaki) for my projects?
-- ♟️  Want to play chess against the community with Readme? [Let's Play](https://github.com/Yagasaki7K/readme-chess)
+- ♟️  Want to play chess against the community with Readme? [Let's Play!](https://github.com/Yagasaki7K/readme-chess)
 
 <p align="center">
   <img src="https://github.com/Yagasaki7K/website-cafecomleite/assets/23272064/febb5104-0741-481a-9171-44ff1b2b3e26" alt="café com leite palette" width="400" />
