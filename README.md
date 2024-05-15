@@ -87,12 +87,8 @@ Top projects that I built on my own or together with the community.
 ----------------------------
 Why in Portuguese? Because every developer in Brazil faces difficulty learning English in the initial stages.
 
-- [Fazendo deploy da sua aplicação Web na Vercel](https://yagasaki.dev/article/fazendo-deploy-na-vercel)
-- [Análise do Arc Browser, meu substituto do Google Chrome](https://yagasaki.dev/article/analisando-arc-browser)
-- [TypeScript - Types vs. Interfaces e qual usar escolher no próximo projeto?](https://yagasaki.dev/article/typescript-types-e-interfaces-e-qual-usar)
-- [O que é Lazy Loading e para que serve?](https://yagasaki.dev/article/o-que-e-lazy-loading)
-- [Análise do Playbook de Alekson Fortes](https://yagasaki.dev/article/analise-do-playbook-de-alekson-fortes)
-- [Playbook do Desenvolvimento Profissional Internacional](https://yagasaki.dev/article/playbook-do-desenvolvimento-profissional-internacional)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <p align="center">
   <img src="https://github.com/Yagasaki7K/website-cafecomleite/assets/23272064/febb5104-0741-481a-9171-44ff1b2b3e26" alt="café com leite palette" width="400" />
