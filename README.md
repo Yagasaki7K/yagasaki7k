@@ -88,6 +88,11 @@ Top projects that I built on my own or together with the community.
 Why in Portuguese? Because every developer in Brazil faces difficulty learning English in the initial stages.
 
 <!-- BLOG-POST-LIST:START -->
+- [Fazendo deploy da sua aplicação Web na Vercel](https://yagasaki.dev/article/fazendo-deploy-na-vercel)
+- [Análise do Arc Browser, meu substituto do Google Chrome](https://yagasaki.dev/article/analisando-arc-browser)
+- [TypeScript - Types vs. Interfaces e qual usar escolher no próximo projeto?](https://yagasaki.dev/article/typescript-types-e-interfaces-e-qual-usar)
+- [O que é Lazy Loading e para que serve?](https://yagasaki.dev/article/o-que-e-lazy-loading)
+- [Análise do Playbook de Alekson Fortes](https://yagasaki.dev/article/analise-do-playbook-de-alekson-fortes)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
