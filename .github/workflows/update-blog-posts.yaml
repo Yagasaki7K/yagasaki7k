@@ -16,4 +16,4 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://yagasaki.dev/rss"
+          feed_list: "https://yagasaki.dev/api/rss"
