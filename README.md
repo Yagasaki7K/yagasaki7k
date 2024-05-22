@@ -1,4 +1,4 @@
-![image](https://github.com/Yagasaki7K/yagasaki7k/assets/23272064/9a2b43e2-e0c9-4dc6-892d-be76080e0ad4)
+![image](https://github.com/Yagasaki7K/yagasaki7k/assets/23272064/bb2f04aa-6ae8-495c-9705-d2de0d7dd73e)
 
 YAGASAKI 矢ヶ崎-KATSURAGI -葛城
 ----------------------------
