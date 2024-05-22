@@ -88,11 +88,11 @@ Top projects that I built on my own or together with the community.
 Why in Portuguese? Because every developer in Brazil faces difficulty learning English in the initial stages.
 
 <!-- BLOG-POST-LIST:START -->
+- [Aprenda a instalar e usar o Obsidian no WSL](https://yagasaki.dev/article/instalando-obsidian-no-wsl)
+- [Aprenda a instalar e usar o Docker no WSL de uma vez](https://yagasaki.dev/article/instalando-docker-no-wsl)
+- [NextJS vs React – Uma comparação para o Frontend](https://yagasaki.dev/article/next-vs-react-uma-comparacao-para-o-frontend)
 - [Como atualizar seu README do Github com as últimas publicações de Blog ou Dev.to](https://yagasaki.dev/article/atualizando-readme-com-ultimos-posts)
 - [Fazendo deploy da sua aplicação Web na Vercel](https://yagasaki.dev/article/fazendo-deploy-na-vercel)
-- [Análise do Arc Browser, meu substituto do Google Chrome](https://yagasaki.dev/article/analisando-arc-browser)
-- [TypeScript - Types vs. Interfaces e qual usar escolher no próximo projeto?](https://yagasaki.dev/article/typescript-types-e-interfaces-e-qual-usar)
-- [O que é Lazy Loading e para que serve?](https://yagasaki.dev/article/o-que-e-lazy-loading)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
