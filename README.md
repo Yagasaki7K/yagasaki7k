@@ -103,3 +103,6 @@ Why in Portuguese? Because every developer in Brazil faces difficulty learning E
  ----------------------------
  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12143229276&width=600)
 ****
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Yagasaki7K/yagasaki7k/assets/23272064/6220a9ee-e71d-4f87-96fe-3f1e2612cf7f?raw=true');]{x0000}$}
