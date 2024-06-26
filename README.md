@@ -1,5 +1,3 @@
-![image](https://github.com/Yagasaki7K/yagasaki7k/assets/23272064/18ce1fff-e9db-43b4-9625-83ce687c19e3)
-
 YAGASAKI 矢ヶ崎-KATSURAGI -葛城
 ----------------------------
 <img src="https://github.com/tairosonloa/tairosonloa/blob/main/assets/wave.gif?raw=true" width="15px"/> Hi, I'm **Anderson Marlon**, a Software Developer with experience building systems and applications scalable in the industries of Chatbot, Artificial Intelligence, Financial Technology (Fintech), Affiliates, Brewery, Health, Journalism, Sustainability, Sales / Entrepreneurship, Podcasts, Advocate, Solutions Tech, Referral Marketing, ChatBOT, Government Solutions Assistance and Electronic Sport Scenario.
