@@ -20,7 +20,7 @@ YAGASAKI 矢ヶ崎-KATSURAGI -葛城
 
 [**Onigiri Hardcore**](https://onigirihardcore.com.br/): It's a news portal for the nerd world, bringing news involving anime, games, films, series and technology. It was built using Next.js, Firebase, Styled Components, DayJS, Gray Matter, Framer Motion, Marked, Million, Next-SEO, Redis, Sonner and Markdown.
 
-[**Essentials **or **Web Essentials**](https://webessentials.com.br/): It's an application for you to easily find applications that are useful for your computer after formatting, making your life easier and bringing things closer to you - it only works on the desktop - it was developed using ReactJS, NextJS, Javascript, JSON and Styled Components.
+[**Essentials** or **Web Essentials**](https://webessentials.com.br/): It's an application for you to easily find applications that are useful for your computer after formatting, making your life easier and bringing things closer to you - it only works on the desktop - it was developed using ReactJS, NextJS, Javascript, JSON and Styled Components.
 
 [**Steamfolio**](https://steamfolio.vercel.app/): Imagine having a development portfolio for yourself that looks like Steam and is completely personalized, with updated data straight from Github? That's the idea, Steamfolio is a simple and configurable project to make everything look like your professional, combined with Steam.
 
