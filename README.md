@@ -15,30 +15,18 @@ YAGASAKI 矢ヶ崎-KATSURAGI -葛城
   <img src="https://github.com/Yagasaki7K/website-cafecomleite/assets/23272064/febb5104-0741-481a-9171-44ff1b2b3e26" alt="café com leite palette" width="400" />
 </p>
 
-🖥️ GitHub Stats
-----------------------------
-[![yagasaki GitHub stats](https://github-readme-stats.vercel.app/api?username=yagasaki7k&show_icons=true&theme=dracula&counnt_private=true)](https://github.com/yagasaki7k)
-
-<p align="center">
-  <img src="https://github.com/Yagasaki7K/website-cafecomleite/assets/23272064/febb5104-0741-481a-9171-44ff1b2b3e26" alt="café com leite palette" width="400" />
-</p>
-
-🚀 Curiosities about me
+🚀 My Relevant Projects
 ----------------------------
 
-- I'm 1st Dan (Black Belt) on Taekwondo (대권도) - [You can read more on it here](https://yagasaki.dev/taekwondo)
-- Completed Harvard's Basic Introduction to Computer Science;
-- I took third place in the AMBEV Hackathon in 2020;
-- Drift driver in his spare time with the NEON漂;
-- Studying Japanese and culture's fan;
-- I like to teach and learn with people;
-- I was the first student council president at my neighborhood school;
-- As a child I developed a team with my cousin and we created: Server on Habbo, Minecraft, GTA San Andreas, RPG Maker and GTA V;
-- I am enthusiastic about computers and since I was eight years old I have been working with computers (Windows 96/98);
+[**Onigiri Hardcore**](https://onigirihardcore.com.br/): It's a news portal for the nerd world, bringing news involving anime, games, films, series and technology. It was built using Next.js, Firebase, Styled Components, DayJS, Gray Matter, Framer Motion, Marked, Million, Next-SEO, Redis, Sonner and Markdown.
+
+[**Essentials **or **Web Essentials**](https://webessentials.com.br/): It's an application for you to easily find applications that are useful for your computer after formatting, making your life easier and bringing things closer to you - it only works on the desktop - it was developed using ReactJS, NextJS, Javascript, JSON and Styled Components.
+
+[**Steamfolio**](https://steamfolio.vercel.app/): Imagine having a development portfolio for yourself that looks like Steam and is completely personalized, with updated data straight from Github? That's the idea, Steamfolio is a simple and configurable project to make everything look like your professional, combined with Steam.
+
+You can see more projects on my [Github](https://github.com/yagasaki7k) or in [my website](https://yagasaki.dev/about#projects). You want to join a community? [Kalify Community](https://discord.gg/jhSepmE7nN)
 
 I'm Jounin Developer. How to define what level of development I am? Reading [Ninja Developer](https://github.com/Yagasaki7K/ninja-developer)
-
-Nowadays I decided to focus on my community, [Kalify Community](https://discord.gg/jhSepmE7nN) to grow and teache others developers. In addition to, build solutions from internet like a [Web Essentials](https://webessentials.vercel.app), [Onigiri Hardcore](https://onigirihardcore.vercel.app), [FindYourPet](https://findyourpet.vercel.app), [Empreguei](https://empreguei.vercel.app/) and more [Kalify Projects](https://kalify.vercel.app/projetos)
 
 <p align="center">
   <img src="https://github.com/Yagasaki7K/website-cafecomleite/assets/23272064/febb5104-0741-481a-9171-44ff1b2b3e26" alt="café com leite palette" width="400" />
@@ -54,7 +42,7 @@ ABREF Campinas • Alexandre Cabral • Cenário Capital • Companhia de Comand
 
 📂 Stuff that I made
 ----------------------------
-Top projects that I built on my own or together with the community.
+Some projects that I built on my own or together with the community.
 
 - [api-estadosdobrasil](https://www.npmjs.com/package/api-estadosdobrasil) - [Repository](https://github.com/Yagasaki7K/api-estadosdobrasil)
   - A package to query names of states and their cities.
@@ -70,8 +58,6 @@ Top projects that I built on my own or together with the community.
     - Open source community of developers and support for those just starting out
 - [Note Text](https://notetext.vercel.app/) - [Repository](https://github.com/Yagasaki7K/app-notetext)
     - Do a notes and save it on your browser and stay in private.
-- [Ninja Developer](https://github.com/Yagasaki7K/ninja-developer/blob/master/README.md) - [Repository](https://github.com/Yagasaki7K/ninja-developer)
-    - A naming concept for developers in the style of Konohagakure.
 - [Newsletterchamps](https://newsletterchamps.vercel.app/) (Outdated) - [Repository](https://github.com/Yagasaki7K/website-newsletterchamps)
     - A website to see the day's news directly from Filipe Dischamps' Newsletter.
 
@@ -94,8 +80,3 @@ Why in Portuguese? Because every developer in Brazil faces difficulty learning E
 <p align="center">
   <img src="https://github.com/Yagasaki7K/website-cafecomleite/assets/23272064/febb5104-0741-481a-9171-44ff1b2b3e26" alt="café com leite palette" width="400" />
 </p>
-
- 🎧 What I Listen When I Work?
- ----------------------------
- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12143229276&width=600)
-****
