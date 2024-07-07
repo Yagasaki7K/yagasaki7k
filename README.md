@@ -40,31 +40,6 @@ ABREF Campinas • Alexandre Cabral • Cenário Capital • Companhia de Comand
   <img src="https://github.com/Yagasaki7K/website-cafecomleite/assets/23272064/febb5104-0741-481a-9171-44ff1b2b3e26" alt="café com leite palette" width="400" />
 </p>
 
-📂 Stuff that I made
-----------------------------
-Some projects that I built on my own or together with the community.
-
-- [api-estadosdobrasil](https://www.npmjs.com/package/api-estadosdobrasil) - [Repository](https://github.com/Yagasaki7K/api-estadosdobrasil)
-  - A package to query names of states and their cities.
-- [Steamfolio](https://steamfolio.vercel.app/) - [Repository](https://github.com/Yagasaki7K/website-steamfolio)
-  - A customizable portfolio interface in the style of Steam. Using Bun, React and Vite.
-- [Essentials](https://webessentials.com.br) - [Repository](https://github.com/Yagasaki7K/website-essentials)
-    - A place to find softwares and utilities after format your computer
-- [Onigiri Hardcore](https://onigirihardcore.com.br/) - [Repository](https://github.com/Yagasaki7K/website-onigirihardcore)
-    - A news portal about anime, games, films and series and technology.
-- [FindYourPet](https://findyourpet.vercel.app/) - [Repository](https://github.com/Yagasaki7K/website-findyourpet)
-    - Web application to inform about missing, found and adopted animals.
-- [Kalify Community](https://kalify.vercel.app/) - [Discord](https://discord.gg/jhSepmE7nN)
-    - Open source community of developers and support for those just starting out
-- [Note Text](https://notetext.vercel.app/) - [Repository](https://github.com/Yagasaki7K/app-notetext)
-    - Do a notes and save it on your browser and stay in private.
-- [Newsletterchamps](https://newsletterchamps.vercel.app/) (Outdated) - [Repository](https://github.com/Yagasaki7K/website-newsletterchamps)
-    - A website to see the day's news directly from Filipe Dischamps' Newsletter.
-
-<p align="center">
-  <img src="https://github.com/Yagasaki7K/website-cafecomleite/assets/23272064/febb5104-0741-481a-9171-44ff1b2b3e26" alt="café com leite palette" width="400" />
-</p>
-
 🤓 Latest Blog Post in Portuguese
 ----------------------------
 Why in Portuguese? Because every developer in Brazil faces difficulty learning English in the initial stages.
