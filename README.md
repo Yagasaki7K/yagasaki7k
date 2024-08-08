@@ -45,11 +45,11 @@ ABREF Campinas • Alexandre Cabral • Cenário Capital • Companhia de Comand
 Why in Portuguese? Because every developer in Brazil faces difficulty learning English in the initial stages.
 
 <!-- BLOG-POST-LIST:START -->
+- [Uma Coisa Que Nunca Te Explicaram Sobre TypeScript](https://yagasaki.dev/article/uma-coisa-que-nunca-te-explicaram-sobre-typescript)
+- [Linux - Lista de erros e soluções rápidas](https://yagasaki.dev/article/zettelkasten-errors)
+- [Como usar o Redis para contar acessos em páginas estáticas](https://yagasaki.dev/article/como-usar-redis-para-contar-acessos)
 - [Aprenda a instalar e usar o Obsidian no WSL](https://yagasaki.dev/article/instalando-obsidian-no-wsl)
 - [Aprenda a instalar e usar o Docker no WSL de uma vez](https://yagasaki.dev/article/instalando-docker-no-wsl)
-- [NextJS vs React – Uma comparação para o Frontend](https://yagasaki.dev/article/next-vs-react-uma-comparacao-para-o-frontend)
-- [Como atualizar seu README do Github com as últimas publicações de Blog ou Dev.to](https://yagasaki.dev/article/atualizando-readme-com-ultimos-posts)
-- [Fazendo deploy da sua aplicação Web na Vercel](https://yagasaki.dev/article/fazendo-deploy-na-vercel)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
