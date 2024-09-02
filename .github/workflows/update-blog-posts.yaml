@@ -1,12 +1,10 @@
-name: Latest blog post workflow
+name: Update README with Latest Blog Posts
 
 on:
-  push: # Run workflow when commits are pushed
-    branches:
-      - main # Or the branch you want to monitor
+  workflow_dispatch:
 
 permissions:
-  contents: write # To write the generated contents to the readme
+  contents: write # Permissão para escrever no README
 
 jobs:
   update-readme-with-blog:
