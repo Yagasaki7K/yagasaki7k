@@ -17,11 +17,11 @@
 
 ## 🚀 Notable Projects
 
-- [**Onigiri Hardcore**](https://onigirihardcore.com.br/): A news portal for the geek world, featuring updates on anime, games, movies, series, and technology. Built using Next.js, Firebase, Styled Components, DayJS, Gray Matter, Framer Motion, Marked, Million, Next-SEO, Redis, Sonner, and Markdown.
+[**Onigiri Hardcore**](https://onigirihardcore.com.br/): A news portal for the geek world, featuring updates on anime, games, movies, series, and technology. Built using Next.js, Firebase, Styled Components, DayJS, Gray Matter, Framer Motion, Marked, Million, Next-SEO, Redis, Sonner, and Markdown.
 
-- [**Web Essentials**](https://webessentials.com.br/): A desktop application designed to help you find useful software for your computer after formatting. Developed with ReactJS, NextJS, JavaScript, JSON, and Styled Components.
+[**Web Essentials**](https://webessentials.com.br/): A desktop application designed to help you find useful software for your computer after formatting. Developed with ReactJS, NextJS, JavaScript, JSON, and Styled Components.
 
-- [**Steamfolio**](https://steamfolio.vercel.app/): A customizable development portfolio that mimics the Steam interface, with data automatically updated from GitHub.
+[**Steamfolio**](https://steamfolio.vercel.app/): A customizable development portfolio that mimics the Steam interface, with data automatically updated from GitHub.
 
 Explore more projects on my [GitHub](https://github.com/yagasaki7k) or on [my website](https://yagasaki.dev/about#projects). Interested in joining a community? Check out the [Kalify Community](https://discord.gg/jhSepmE7nN).
 
