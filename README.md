@@ -44,11 +44,11 @@ ABREF Campinas, Alexandre Cabral, Cenário Capital, Companhia de Comando (11ª B
 Why in Portuguese? Because many developers in Brazil face challenges learning English during their early stages.
 
 <!-- BLOG-POST-LIST:START -->
-- [A Thing That Was Never Explained to You About TypeScript](https://yagasaki.dev/article/uma-coisa-que-nunca-te-explicaram-sobre-typescript)
-- [Linux - Quick Error List and Solutions](https://yagasaki.dev/article/zettelkasten-errors)
-- [How to Use Redis to Count Page Views on Static Pages](https://yagasaki.dev/article/como-usar-redis-para-contar-acessos)
-- [How to Install and Use Obsidian on WSL](https://yagasaki.dev/article/instalando-obsidian-no-wsl)
-- [How to Install and Use Docker on WSL Once and For All](https://yagasaki.dev/article/instalando-docker-no-wsl)
+- [Primeiros Passos na línguagem GO - Completo](https://yagasaki.dev/article/primeiros-passos-na-linguagem-go)
+- [Entenda Programação Orientada a Objetos de Maneira Simplificada &lpar;POO&rpar;](https://yagasaki.dev/article/entenda-programacao-orientada-a-objetos-de-maneira-simplificada)
+- [Uma Coisa Que Nunca Te Explicaram Sobre TypeScript](https://yagasaki.dev/article/uma-coisa-que-nunca-te-explicaram-sobre-typescript)
+- [Como usar o Redis para contar acessos em páginas estáticas](https://yagasaki.dev/article/como-usar-redis-para-contar-acessos)
+- [Aprenda a instalar e usar o Obsidian no WSL](https://yagasaki.dev/article/instalando-obsidian-no-wsl)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
