@@ -23,6 +23,10 @@
 
 [**Steamfolio**](https://steamfolio.vercel.app/): A customizable portfolio designed to emulate the look and feel of Steam, offering developers a unique way to showcase their projects. The portfolio automatically pulls data from GitHub using GitHub's API, ensuring real-time updates for repositories, commits, and stats. The interface is built with ReactJS, and styled with Styled Components for a consistent visual identity. The application supports deep customization, allowing users to modify the layout and appearance, all while preserving the recognizable Steam aesthetic. Through clever use of JavaScript, the portfolio enables seamless interaction between elements, and NextJS ensures fast, reliable performance with server-side rendering capabilities.
 
+<p align="center">
+  <img src="https://github.com/Yagasaki7K/website-cafecomleite/assets/23272064/febb5104-0741-481a-9171-44ff1b2b3e26" alt="Coffee Palette" width="400" />
+</p>
+
 **Explore more of my work**
 
 Discover a variety of exciting projects on my [GitHub](https://github.com/yagasaki7k) or visit [my website](https://yagasaki.dev/about#projects) for a deeper dive into my portfolio. If you're looking to connect and collaborate with like-minded individuals, feel free to join the [Kalify Community](https://discord.gg/jhSepmE7nN).
