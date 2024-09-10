@@ -1,6 +1,8 @@
 # YAGASAKI 矢ヶ崎 - KATSURAGI 葛城
 
-<img src="https://github.com/tairosonloa/tairosonloa/blob/main/assets/wave.gif?raw=true" width="15px"/> Hi, I'm **Anderson Marlon**, a Software Developer with a versatile background in designing and implementing scalable systems and applications across multiple industries. My expertise spans Payment Systems, Discord Bots, Chatbots, Artificial Intelligence (AI), Technical assistance, Fintech, Affiliate Marketing, Brewery, Healthcare, Journalism, Sustainability, Sales/Entrepreneurship, Podcasts, Advocacy, Tech Solutions, Referral Marketing, Government Solutions, and Esports.
+<img src="https://github.com/tairosonloa/tairosonloa/blob/main/assets/wave.gif?raw=true" width="15px"/> Hi, I'm **Anderson Marlon**, a Software Developer with a versatile background in designing and implementing scalable systems and applications across multiple industries. 
+
+My expertise spans Payment Systems, Discord Bots, Chatbots, Artificial Intelligence (AI), Technical assistance, Fintech, Affiliate Marketing, Brewery, Healthcare, Journalism, Sustainability, Sales/Entrepreneurship, Podcasts, Advocacy, Tech Solutions, Referral Marketing, Government Solutions, and Esports.
 
 - 🌍 Based in Campinas, Brazil
 - 🖥️ Check out my portfolio on my [official website](http://yagasaki.vercel.app/about)
