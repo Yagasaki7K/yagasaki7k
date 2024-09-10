@@ -1,6 +1,6 @@
 # YAGASAKI 矢ヶ崎 - KATSURAGI 葛城
 
-<img src="https://github.com/tairosonloa/tairosonloa/blob/main/assets/wave.gif?raw=true" width="15px"/> Hi, I'm **Anderson Marlon**, a Software Developer with a diverse background in building scalable systems and applications across various industries, including Chatbots, Artificial Intelligence (AI), Fintech, Affiliate Marketing, Brewery, Healthcare, Journalism, Sustainability, Sales/Entrepreneurship, Podcasts, Advocacy, Tech Solutions, Referral Marketing, Government Solutions, and Esports.
+<img src="https://github.com/tairosonloa/tairosonloa/blob/main/assets/wave.gif?raw=true" width="15px"/> Hi, I'm **Anderson Marlon**, a Software Developer with a versatile background in designing and implementing scalable systems and applications across multiple industries. My expertise spans Payment Systems, Discord Bots, Chatbots, Artificial Intelligence (AI), Technical assistance, Fintech, Affiliate Marketing, Brewery, Healthcare, Journalism, Sustainability, Sales/Entrepreneurship, Podcasts, Advocacy, Tech Solutions, Referral Marketing, Government Solutions, and Esports.
 
 - 🌍 Based in Campinas, Brazil
 - 🖥️ Check out my portfolio on my [official website](http://yagasaki.vercel.app/about)
@@ -23,9 +23,11 @@
 
 [**Steamfolio**](https://steamfolio.vercel.app/): A customizable portfolio designed to emulate the look and feel of Steam, offering developers a unique way to showcase their projects. The portfolio automatically pulls data from GitHub using GitHub's API, ensuring real-time updates for repositories, commits, and stats. The interface is built with ReactJS, and styled with Styled Components for a consistent visual identity. The application supports deep customization, allowing users to modify the layout and appearance, all while preserving the recognizable Steam aesthetic. Through clever use of JavaScript, the portfolio enables seamless interaction between elements, and NextJS ensures fast, reliable performance with server-side rendering capabilities.
 
-Explore more projects on my [GitHub](https://github.com/yagasaki7k) or on [my website](https://yagasaki.dev/about#projects). Interested in joining a community? Check out the [Kalify Community](https://discord.gg/jhSepmE7nN).
+**Explore more of my work**
+Discover a variety of exciting projects on my [GitHub](https://github.com/yagasaki7k) or visit [my website](https://yagasaki.dev/about#projects) for a deeper dive into my portfolio. If you're looking to connect and collaborate with like-minded individuals, feel free to join the [Kalify Community](https://discord.gg/jhSepmE7nN).
 
-If you need any support, you can touch me by [ByteOne Solutions](https://byteone.vercel.app) and I'll provide it using Discord or AnyDesk with scripts and solutions of first world.
+**Need assistance?**
+For personalized support, reach out to me through [ByteOne Solutions](https://byteone.vercel.app). Whether via Discord or AnyDesk, I'll provide cutting-edge scripts and first-class solutions tailored to your needs.
 
 <p align="center">
   <img src="https://github.com/Yagasaki7K/website-cafecomleite/assets/23272064/febb5104-0741-481a-9171-44ff1b2b3e26" alt="Coffee Palette" width="400" />
