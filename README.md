@@ -16,6 +16,7 @@
 </p>
 
 ## 🚀 Notable Projects
+[**Sintonia SP**](https://sintoniasp.vercel.app): A highly immersive GTA V roleplay server, designed with advanced custom scripts for gangs, economy management, and law enforcement systems. Built on the robust FiveM platform, utilizing Node.js, Vrp, MySQL, and JavaScript, the server integrates real-time data handling through Socket.IO. 3D models are expertly crafted using CodeWalker and OpenIV. The platform also features integration with PagBank for secure payment systems. Additionally, custom bots are created using Webhooks, Discord.js and Bun to enhance server automation and player interaction. Custom interfaces, developed with React and Vue.js, provide players with a seamless, engaging experience.
 
 [**Onigiri Hardcore**](https://onigirihardcore.com.br/): A news portal for the geek world, featuring updates on anime, games, movies, series, and technology. Built using Next.js, Firebase, Styled Components, DayJS, Gray Matter, Framer Motion, Marked, Million, Next-SEO, Redis, Sonner, and Markdown.
 
