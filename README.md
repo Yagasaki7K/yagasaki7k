@@ -5,7 +5,6 @@
 - 🌍 Based in Campinas, Brazil
 - 🖥️ Check out my portfolio on my [official website](http://yagasaki.vercel.app/about)
 - ✉️ Contact me at [anderson18.marlon@gmail.com](mailto:anderson18.marlon@gmail.com) or [yagasakiwanderlust@gmail.com](mailto:yagasakiwanderlust@gmail.com)
-- 🚀 Currently seeking new job opportunities
 - 🤝 Open to collaborating on innovative projects
 - 💬 Feel free to ask me anything!
 - ☕ Support my projects by [sponsoring me](https://github.com/sponsors/Yagasaki7K/) or [buying me a coffee](https://pixmeacoffee.vercel.app/yagasaki)
@@ -18,15 +17,15 @@
 ## 🚀 Notable Projects
 [**Sintonia SP**](https://sintoniasp.vercel.app): A highly immersive GTA V roleplay server, designed with advanced custom scripts for gangs, economy management, and law enforcement systems. Built on the robust FiveM platform, utilizing Node.js, Vrp, MySQL, and JavaScript, the server integrates real-time data handling through Socket.IO. 3D models are expertly crafted using CodeWalker and OpenIV. The platform also features integration with PagBank for secure payment systems. Additionally, custom bots are created using Webhooks, Discord.js and Bun to enhance server automation and player interaction. Custom interfaces, developed with React and Vue.js, provide players with a seamless, engaging experience.
 
-[**Onigiri Hardcore**](https://onigirihardcore.com.br/): A news portal for the geek world, featuring updates on anime, games, movies, series, and technology. Built using Next.js, Firebase, Styled Components, DayJS, Gray Matter, Framer Motion, Marked, Million, Next-SEO, Redis, Sonner, and Markdown.
+[**Onigiri Hardcore**](https://onigirihardcore.com.br/): A comprehensive news portal dedicated to the geek world, covering updates on anime, games, movies, series, and technology. The platform is developed using NextJS for server-side rendering, dynamic user interface and routing. Styling is handled with Styled Components for modular and scalable CSS-in-JS solutions. DayJS is used for accurate and efficient date formatting across articles, while Gray Matter manages front matter for structured content. Framer Motion powers interactive animations, enhancing the user experience. Articles are rendered in Markdown using Marked. Next-SEO ensures optimal search engine visibility.
 
-[**Web Essentials**](https://webessentials.com.br/): A desktop application designed to help you find useful software for your computer after formatting. Developed with ReactJS, NextJS, JavaScript, JSON, and Styled Components.
+[**Web Essentials**](https://webessentials.com.br/): A desktop application designed to streamline the post-formatting process by helping users find essential software for their systems. Developed using NextJS for an intuitive user interface, server-side rendering, the application leverages JavaScript and JSON to manage dynamic content and store user preferences locally. Styled Components provide consistent and modular styling across the app, ensuring a clean and responsive design. The app delivers a user-friendly experience, making software management efficient and straightforward after a system reset or fresh installation.
 
-[**Steamfolio**](https://steamfolio.vercel.app/): A customizable development portfolio that mimics the Steam interface, with data automatically updated from GitHub.
+[**Steamfolio**](https://steamfolio.vercel.app/): A customizable portfolio designed to emulate the look and feel of Steam, offering developers a unique way to showcase their projects. The portfolio automatically pulls data from GitHub using GitHub's API, ensuring real-time updates for repositories, commits, and stats. The interface is built with ReactJS, and styled with Styled Components for a consistent visual identity. The application supports deep customization, allowing users to modify the layout and appearance, all while preserving the recognizable Steam aesthetic. Through clever use of JavaScript, the portfolio enables seamless interaction between elements, and NextJS ensures fast, reliable performance with server-side rendering capabilities.
 
 Explore more projects on my [GitHub](https://github.com/yagasaki7k) or on [my website](https://yagasaki.dev/about#projects). Interested in joining a community? Check out the [Kalify Community](https://discord.gg/jhSepmE7nN).
 
-I'm a Jounin Developer. Curious about my development level? Read [Ninja Developer](https://github.com/Yagasaki7K/ninja-developer).
+If you need any support, you can touch me by [ByteOne Solutions](https://byteone.vercel.app) and I'll provide it using Discord or AnyDesk with scripts and solutions of first world.
 
 <p align="center">
   <img src="https://github.com/Yagasaki7K/website-cafecomleite/assets/23272064/febb5104-0741-481a-9171-44ff1b2b3e26" alt="Coffee Palette" width="400" />
