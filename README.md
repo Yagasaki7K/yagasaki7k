@@ -5,10 +5,10 @@
 
 **notable projects:**
 
-[webessentials](https://webessentials.vercel.app) - utilities, extensions, and app tools for your computer (nextjs and styled-components)
+[steamfolio](https://steamfolio.vercel.app) - easily build your portfolio with a steam-like design (steamapi, graphql, nextjs and styled-components)
 
 [sintoniasp](https://sintoniasp.vercel.app) - a fivem server, city-themed around são paulo (vrp, mysql, codewalker, openiv, javascript, discord.js, etc)
 
-[steamfolio](https://steamfolio.vercel.app) - easily build your portfolio with a steam-like design (steamapi, graphql, nextjs and styled-components)
+[webessentials](https://webessentials.vercel.app) - utilities, extensions, and app tools for your computer (nextjs and styled-components)
 
 [onigiri hardcore](https://onigirihardcore.vercel.app) - a portal to share news about anime, manga, tech, and more (nextjs, marked and styled-components)
