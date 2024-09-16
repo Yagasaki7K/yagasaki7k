@@ -11,4 +11,4 @@
 
 [webessentials](https://webessentials.vercel.app) - utilities, extensions, and app tools for your computer (nextjs and styled-components)
 
-[onigiri hardcore](https://onigirihardcore.vercel.app) - a portal to share news about anime, manga, tech, and more (nextjs, marked and styled-components)
+[onigirihardcore](https://onigirihardcore.vercel.app) - a portal to share news about anime, manga, tech, and more (nextjs, marked and styled-components)
