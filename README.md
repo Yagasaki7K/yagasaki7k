@@ -1,6 +1,6 @@
 # hi, i'm yagasaki.
-- third place in the 2020 ambev hackathon and worked at stone co in 2023.
 - mid-level software developer (javascript, typescript, lua, python, etc)
+- third place in the 2020 ambev hackathon and worked at stone co in 2023.
 - devout javascript advocate, occasionally dabbling in other languages (typescript, lua, python, etc)
 
 **notable projects:**
