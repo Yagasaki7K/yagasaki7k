@@ -7,7 +7,7 @@
 
 [steamfolio](https://steamfolio.vercel.app) - easily build your portfolio with a steam-like design (steamapi, graphql, nextjs and styled-components)
 
-[sintoniasp](https://sintoniasp.vercel.app) - a fivem server, city-themed around são paulo (vrp, mysql, codewalker, openiv, javascript, discord.js, etc)
+[sintoniasp](https://sintoniasp.vercel.app) - PROJECT ARCHIVED - a fivem server, city-themed around são paulo (vrp, mysql, codewalker, openiv, javascript, discord.js, etc)
 
 [webessentials](https://webessentials.vercel.app) - utilities, extensions, and app tools for your computer (nextjs and styled-components)
 
