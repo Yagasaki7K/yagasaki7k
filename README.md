@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/56042312-1558-4632-8322-aa4ecf5d9d7e)
+
 # hi, i'm yagasaki.
 - mid-level software developer (javascript, typescript, lua, python, etc)
 - third place in the 2020 ambev hackathon and worked at stone co in 2023.
