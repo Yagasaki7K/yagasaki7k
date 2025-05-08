@@ -1,4 +1,4 @@
-### Software Developer using JS/TS
+### Fullstack Software Developer using JS/TS
 
 [![Blog Badge](https://img.shields.io/badge/-Blog-2a3636?style=flat-square&logo=googlenearby&logoColor=fff&link=https://yagasaki.vercel.app)](mailto:https://yagasaki.vercel.app)
 [![About Badge](https://img.shields.io/badge/-About%20Me-2a3636?style=flat-square&logo=googlenearby&logoColor=fff&link=https://yagasaki.vercel.app/about)](https://yagasaki.vercel.app/about)
