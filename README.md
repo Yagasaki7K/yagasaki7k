@@ -1,6 +1,6 @@
 ### Fullstack Software Developer using JS/TS
 
-[![Blog Badge](https://img.shields.io/badge/-Blog-2a3636?style=flat-square&logo=googlenearby&logoColor=fff&link=https://yagasaki.vercel.app)](mailto:https://yagasaki.vercel.app)
+[![Blog Badge](https://img.shields.io/badge/-Blog-2a3636?style=flat-square&logo=googlenearby&logoColor=fff&link=https://yagasaki.vercel.app)](https://yagasaki.vercel.app)
 [![About Badge](https://img.shields.io/badge/-About%20Me-2a3636?style=flat-square&logo=googlenearby&logoColor=fff&link=https://yagasaki.vercel.app/about)](https://yagasaki.vercel.app/about)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2a3636?style=flat-square&logo=googlenearby&logoColor=fff&link=https://www.linkedin.com/in/andersonmarlon/)](https://www.linkedin.com/in/andersonmarlon/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-2a3636?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:anderson18.marlon@gmail.com)](mailto:anderson18.marlon@gmail.com)
