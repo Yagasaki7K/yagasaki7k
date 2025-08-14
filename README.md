@@ -19,3 +19,11 @@ Olá, meu nome é Anderson Marlon, também conhecido como Yagasaki. Sou indie ha
 Minha primeira experiência com código foi em um curso de desenvolvimento web e, desde então, tenho aprimorado minhas habilidades. Uso computador desde os meus oito anos de idade e me apaixonei por tecnologia desde então.
 
 **Precisa de um novo projeto, melhorar seu código? Entre em contato e vamos construir algo incrível juntos.**
+
+--
+
+こんにちは。アンダーソン・マーロン（通称：矢ヶ崎）です。ブラジル出身のインディーハッカー兼ソフトウェアエンジニアです。プログラミングに初めて触れたのは2014年です。RPGと日本文化に情熱を注いでいます。
+
+コーディングを初めて体験したのはWeb開発コースで、それ以来ずっとスキルを磨き続けています。8歳の頃からコンピューターを使い始め、テクノロジーに情熱を注いできました。
+
+**新しいプロジェクトをお探しですか？コーディングスキルを向上させたいですか？ぜひご連絡ください。一緒に素晴らしいものを作りましょう。**
