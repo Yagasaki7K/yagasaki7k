@@ -1,4 +1,4 @@
-### Fullstack Software Engineer using JS/TS
+# Anderson Marlon — Fullstack Software Engineer (JavaScript/TypeScript)
 
 [![Blog Badge](https://img.shields.io/badge/-Blog-2a3636?style=flat-square&logo=googlenearby&logoColor=fff&link=https://yagasaki.vercel.app)](https://yagasaki.vercel.app)
 [![About Badge](https://img.shields.io/badge/-About%20Me-2a3636?style=flat-square&logo=googlenearby&logoColor=fff&link=https://yagasaki.vercel.app/about)](https://yagasaki.vercel.app/about)
@@ -6,24 +6,40 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-2a3636?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:anderson18.marlon@gmail.com)](mailto:anderson18.marlon@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-2a3636?style=flat-square&logo=whatsapp&logoColor=fff&link=http://wa.me/551998018174?text=Hi!)](http://wa.me/551998018174?text=Hi!)
 
-Hello, my name is **Anderson Marlon**, also known as Yagasaki. I'm a Brazilian indie hacker and software engineer and my first contact with programming was in 2014. I'm passionate about RPGs and Japanese culture.
+---
 
-My first experience with coding was in a web development course and, since then, I've been improving my skills. I've been using computers since I was eight years old and I've been in love with technology ever since.
+## About Me
+I am **Anderson Marlon** (also known as **Yagasaki**), a fullstack software engineer and Brazilian indie hacker.  
+I specialize in building scalable SaaS platforms, intelligent integrations, and automation systems using **JavaScript/TypeScript**.  
 
-**Do you need a new project, to improve your code? Get in touch and let's build something amazing together.**
+My first contact with programming was in 2014. Since then, I have developed expertise in designing and implementing solutions that combine robust backend architectures with modern, responsive frontends. I have a strong background in API development, AI integration, and high-impact product delivery.
 
---
+---
 
-Olá, meu nome é Anderson Marlon, também conhecido como Yagasaki. Sou indie hacker brasileiro e engenheiro de software e meu primeiro contato com programação foi em 2014. Apaixonado por RPGs e pela cultura japonesa.
+## Core Skills
+**Frontend:** React, Next.js, TypeScript, Sass, Redux, HTML5, CSS3, UI/UX  
+**Backend:** Node.js, NestJS, Express, Fastify, Bun.js, GraphQL  
+**Databases:** PostgreSQL, MySQL, SQLite, MongoDB  
+**Cloud & DevOps:** AWS, Google Cloud, Firebase, Supabase, Hasura, Vercel  
+**Integrations:** OpenAI, WhatsApp Business API, Stripe, Rocket.Chat, DialogFlow
 
-Minha primeira experiência com código foi em um curso de desenvolvimento web e, desde então, tenho aprimorado minhas habilidades. Uso computador desde os meus oito anos de idade e me apaixonei por tecnologia desde então.
+---
 
-**Precisa de um novo projeto, melhorar seu código? Entre em contato e vamos construir algo incrível juntos.**
+## Selected Projects
+- **AI-Powered Astrology System** – OpenAI + WhatsApp integration delivering over 95% validated accuracy and handling 50,000+ interactions per month, increasing user engagement by 38%.  
+- **Stripe Subscription Platform** – Automated monthly and yearly billing with advanced churn and LTV metrics, reducing cancellation rates by 18% and increasing annual recurring revenue by 25%.  
+- **Multi-Channel Chatbot** – Architecture integrating Rocket.Chat, DialogFlow, and WhatsApp to process over 1.2 million messages per quarter while reducing average response time by 40%.  
+- **UI/UX Redesign with Stripe Integration for SaaS** – Optimized payment flow, increasing conversion rates by 32% and reducing cart abandonment by 21%.  
+- **Open Source Contribution – AbacatePay Payment Gateway** – Implemented AI enhancements for technical support chatbot, reducing manual ticket volume by 35% and improving resolution speed by 50%.  
 
---
+For more details, visit my portfolio: [yagasaki.vercel.app](https://yagasaki.vercel.app/about)
 
-こんにちは。アンダーソン・マーロン（通称：矢ヶ崎）です。ブラジル出身のインディーハッカー兼ソフトウェアエンジニアです。プログラミングに初めて触れたのは2014年です。RPGと日本文化に情熱を注いでいます。
+---
 
-コーディングを初めて体験したのはWeb開発コースで、それ以来ずっとスキルを磨き続けています。8歳の頃からコンピューターを使い始め、テクノロジーに情熱を注いできました。
+## Contact
+Email: [yagasakiwanderlust@proton.me](mailto:yagasakiwanderlust@proton.me)  
+WhatsApp: [Message me](http://wa.me/551998018174?text=Hi!)
 
-**新しいプロジェクトをお探しですか？コーディングスキルを向上させたいですか？ぜひご連絡ください。一緒に素晴らしいものを作りましょう。**
+---
+
+*"Code is a tool. Impact is the goal."*
