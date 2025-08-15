@@ -6,8 +6,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-2a3636?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:anderson18.marlon@gmail.com)](mailto:anderson18.marlon@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-2a3636?style=flat-square&logo=whatsapp&logoColor=fff&link=http://wa.me/551998018174?text=Hi!)](http://wa.me/551998018174?text=Hi!)
 
----
-
 ## About Me
 I am **Anderson Marlon** (also known as **Yagasaki**), a fullstack software engineer and Brazilian indie hacker.  
 I specialize in building scalable SaaS platforms, intelligent integrations, and automation systems using **JavaScript/TypeScript**.  
