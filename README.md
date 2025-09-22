@@ -1,5 +1,5 @@
 <h1 align="center">
-  Software Engineer
+  software engineer
 </h1>
 <p align="center">
   <samp>
