@@ -10,16 +10,11 @@ from lxml import etree
 
 def _load_env_var(env_var):
     """
-    Returns an environment variable, or raises an informative error if it's missing.
+    Returns an environment variable, or None if it's missing.
     """
 
     value = os.environ.get(env_var)
-    if not value:
-        raise EnvironmentError(
-            f"Missing or empty environment variable: {env_var}. "
-            "Please set it before running the script."
-        )
-    return value
+    return value if value else None
 
 
 # Fine-grained personal access token with All Repositories access:
@@ -28,7 +23,19 @@ def _load_env_var(env_var):
 # Issues and pull requests permissions not needed at the moment, but may be used in the future
 ACCESS_TOKEN = _load_env_var("ACCESS_TOKEN")
 USER_NAME = _load_env_var("USER_NAME")  # Yagasaki7K
-HEADERS = {"authorization": "token " + ACCESS_TOKEN}
+MISSING_ENV_VARS = [var for var in ["ACCESS_TOKEN", "USER_NAME"] if not os.environ.get(var)]
+OFFLINE_MODE = bool(MISSING_ENV_VARS)
+
+if OFFLINE_MODE:
+    print(
+        "Missing environment variables:",
+        ", ".join(MISSING_ENV_VARS),
+        "\nRunning in offline mode with placeholder data.",
+    )
+    ACCESS_TOKEN = ACCESS_TOKEN or "offline-placeholder"
+    USER_NAME = USER_NAME or "offline-user"
+
+HEADERS = {"authorization": "token " + ACCESS_TOKEN} if not OFFLINE_MODE else {}
 RETRYABLE_STATUS_CODES = {502, 503, 504}
 QUERY_COUNT = {
     "user_getter": 0,
@@ -73,12 +80,26 @@ def simple_request(func_name, query, variables):
     """
     Returns a request, or raises an Exception if the response does not succeed.
     """
+
+    if OFFLINE_MODE:
+        raise RuntimeError(
+            f"{func_name} cannot run because offline mode is enabled (missing credentials)."
+        )
     request = request_with_retry(query, variables)
     if request.status_code == 200:
         return request
     raise Exception(
         func_name, " has failed with a", request.status_code, request.text, QUERY_COUNT
     )
+
+
+def offline_value(func_name, default_value):
+    """
+    Returns a safe default for functions that cannot run without credentials.
+    """
+
+    print(f"Skipping {func_name} because offline mode is enabled.")
+    return default_value
 
 
 def request_with_retry(query, variables, retries=3, backoff=1):
@@ -103,6 +124,9 @@ def graph_commits(start_date, end_date):
     """
     Uses GitHub's GraphQL v4 API to return my total commit count
     """
+
+    if OFFLINE_MODE:
+        return offline_value(graph_commits.__name__, 0)
     query_count("graph_commits")
     query = """
     query($start_date: DateTime!, $end_date: DateTime!, $login: String!) {
@@ -127,6 +151,9 @@ def graph_repos_stars(count_type, owner_affiliation, cursor=None, add_loc=0, del
     """
     Uses GitHub's GraphQL v4 API to return my total repository, star, or lines of code count.
     """
+
+    if OFFLINE_MODE:
+        return offline_value(graph_repos_stars.__name__, 0)
     query_count("graph_repos_stars")
     query = """
     query ($owner_affiliation: [RepositoryAffiliation], $login: String!, $cursor: String) {
@@ -178,6 +205,9 @@ def recursive_loc(
     """
     Uses GitHub's GraphQL v4 API and cursor pagination to fetch 100 commits from a repository at a time
     """
+
+    if OFFLINE_MODE:
+        return offline_value(recursive_loc.__name__, (addition_total, deletion_total, my_commits))
     query_count("recursive_loc")
     query = """
     query ($repo_name: String!, $owner: String!, $cursor: String) {
@@ -297,6 +327,9 @@ def loc_query(
     requests and also give a 502 error.
     Returns the total number of lines of code in all repositories
     """
+
+    if OFFLINE_MODE:
+        return offline_value(loc_query.__name__, [0, 0, 0, True])
     query_count("loc_query")
     query = """
     query ($owner_affiliation: [RepositoryAffiliation], $login: String!, $cursor: String) {
@@ -563,8 +596,13 @@ def commit_counter(comment_size):
     filename = (
         "cache/" + hashlib.sha256(USER_NAME.encode("utf-8")).hexdigest() + ".txt"
     )  # Use the same filename as cache_builder
-    with open(filename, "r") as f:
-        data = f.readlines()
+    try:
+        with open(filename, "r") as f:
+            data = f.readlines()
+    except FileNotFoundError:
+        if OFFLINE_MODE:
+            return offline_value(commit_counter.__name__, 0)
+        raise
     cache_comment = data[:comment_size]  # save the comment block
     data = data[comment_size:]  # remove those lines
     for line in data:
@@ -576,6 +614,9 @@ def user_getter(username):
     """
     Returns the account ID and creation time of the user
     """
+
+    if OFFLINE_MODE:
+        return offline_value(user_getter.__name__, {"id": "offline"}), datetime.datetime.fromtimestamp(0).isoformat()
     query_count("user_getter")
     query = """
     query($login: String!){
@@ -595,6 +636,9 @@ def follower_getter(username):
     """
     Returns the number of followers of the user
     """
+
+    if OFFLINE_MODE:
+        return offline_value(follower_getter.__name__, 0)
     query_count("follower_getter")
     query = """
     query($login: String!){
