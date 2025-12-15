@@ -29,6 +29,7 @@ def _load_env_var(env_var):
 ACCESS_TOKEN = _load_env_var("ACCESS_TOKEN")
 USER_NAME = _load_env_var("USER_NAME")  # Yagasaki7K
 HEADERS = {"authorization": "token " + ACCESS_TOKEN}
+RETRYABLE_STATUS_CODES = {502, 503, 504}
 QUERY_COUNT = {
     "user_getter": 0,
     "follower_getter": 0,
@@ -72,16 +73,30 @@ def simple_request(func_name, query, variables):
     """
     Returns a request, or raises an Exception if the response does not succeed.
     """
-    request = requests.post(
-        "https://api.github.com/graphql",
-        json={"query": query, "variables": variables},
-        headers=HEADERS,
-    )
+    request = request_with_retry(query, variables)
     if request.status_code == 200:
         return request
     raise Exception(
         func_name, " has failed with a", request.status_code, request.text, QUERY_COUNT
     )
+
+
+def request_with_retry(query, variables, retries=3, backoff=1):
+    """
+    Sends a GraphQL request with retries for transient server errors.
+    """
+    request = None
+    for _ in range(retries):
+        request = requests.post(
+            "https://api.github.com/graphql",
+            json={"query": query, "variables": variables},
+            headers=HEADERS,
+        )
+        if request.status_code == 200 or request.status_code not in RETRYABLE_STATUS_CODES:
+            return request
+        time.sleep(backoff)
+        backoff *= 2
+    return request
 
 
 def graph_commits(start_date, end_date):
@@ -197,11 +212,7 @@ def recursive_loc(
         }
     }"""
     variables = {"repo_name": repo_name, "owner": owner, "cursor": cursor}
-    request = requests.post(
-        "https://api.github.com/graphql",
-        json={"query": query, "variables": variables},
-        headers=HEADERS,
-    )  # I cannot use simple_request(), because I want to save the file before raising Exception
+    request = request_with_retry(query, variables)
     if request.status_code == 200:
         if (
             request.json()["data"]["repository"]["defaultBranchRef"] != None
@@ -226,6 +237,13 @@ def recursive_loc(
     if request.status_code == 403:
         raise Exception(
             "Too many requests in a short amount of time!\nYou've hit the non-documented anti-abuse limit!"
+        )
+    if request.status_code in RETRYABLE_STATUS_CODES:
+        raise Exception(
+            "recursive_loc() has failed after retries with a",
+            request.status_code,
+            request.text,
+            QUERY_COUNT,
         )
     raise Exception(
         "recursive_loc() has failed with a",
