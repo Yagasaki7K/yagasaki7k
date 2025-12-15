@@ -7,12 +7,28 @@ import requests
 from dateutil import relativedelta
 from lxml import etree
 
+
+def _load_env_var(env_var):
+    """
+    Returns an environment variable, or raises an informative error if it's missing.
+    """
+
+    value = os.environ.get(env_var)
+    if not value:
+        raise EnvironmentError(
+            f"Missing or empty environment variable: {env_var}. "
+            "Please set it before running the script."
+        )
+    return value
+
+
 # Fine-grained personal access token with All Repositories access:
 # Account permissions: read:Followers, read:Starring, read:Watching
 # Repository permissions: read:Commit statuses, read:Contents, read:Issues, read:Metadata, read:Pull Requests
 # Issues and pull requests permissions not needed at the moment, but may be used in the future
-HEADERS = {"authorization": "token " + os.environ["ACCESS_TOKEN"]}
-USER_NAME = os.environ["USER_NAME"]  # Yagasaki7K
+ACCESS_TOKEN = _load_env_var("ACCESS_TOKEN")
+USER_NAME = _load_env_var("USER_NAME")  # Yagasaki7K
+HEADERS = {"authorization": "token " + ACCESS_TOKEN}
 QUERY_COUNT = {
     "user_getter": 0,
     "follower_getter": 0,
