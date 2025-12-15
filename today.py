@@ -203,7 +203,11 @@ def recursive_loc(
     cursor=None,
 ):
     """
-    Uses GitHub's GraphQL v4 API and cursor pagination to fetch 100 commits from a repository at a time
+    Uses GitHub's GraphQL v4 API and cursor pagination to fetch 100 commits from a repository at a time.
+
+    This function previously relied on recursive calls for pagination, which could exceed Python's
+    recursion depth limit on large histories. The pagination loop is now iterative to avoid that
+    failure mode.
     """
 
     if OFFLINE_MODE:
@@ -242,60 +246,59 @@ def recursive_loc(
         }
     }"""
     variables = {"repo_name": repo_name, "owner": owner, "cursor": cursor}
-    request = request_with_retry(query, variables)
-    if request.status_code == 200:
-        if (
-            request.json()["data"]["repository"]["defaultBranchRef"] != None
-        ):  # Only count commits if repo isn't empty
-            return loc_counter_one_repo(
-                owner,
-                repo_name,
-                data,
-                cache_comment,
-                request.json()["data"]["repository"]["defaultBranchRef"]["target"][
-                    "history"
-                ],
+
+    while True:
+        request = request_with_retry(query, variables)
+        if request.status_code == 200:
+            default_branch = request.json()["data"]["repository"]["defaultBranchRef"]
+            if default_branch is None:  # Only count commits if repo isn't empty
+                return 0
+
+            history = default_branch["target"]["history"]
+            (
+                addition_total,
+                deletion_total,
+                my_commits,
+                has_next_page,
+                end_cursor,
+            ) = loc_counter_one_repo(
+                history,
                 addition_total,
                 deletion_total,
                 my_commits,
             )
-        else:
-            return 0
-    force_close_file(
-        data, cache_comment
-    )  # saves what is currently in the file before this program crashes
-    if request.status_code == 403:
+
+            if not history["edges"] or not has_next_page:
+                return addition_total, deletion_total, my_commits
+
+            variables["cursor"] = end_cursor
+            continue
+
+        force_close_file(
+            data, cache_comment
+        )  # saves what is currently in the file before this program crashes
+        if request.status_code == 403:
+            raise Exception(
+                "Too many requests in a short amount of time!\nYou've hit the non-documented anti-abuse limit!"
+            )
+        if request.status_code in RETRYABLE_STATUS_CODES:
+            raise Exception(
+                "recursive_loc() has failed after retries with a",
+                request.status_code,
+                request.text,
+                QUERY_COUNT,
+            )
         raise Exception(
-            "Too many requests in a short amount of time!\nYou've hit the non-documented anti-abuse limit!"
-        )
-    if request.status_code in RETRYABLE_STATUS_CODES:
-        raise Exception(
-            "recursive_loc() has failed after retries with a",
+            "recursive_loc() has failed with a",
             request.status_code,
             request.text,
             QUERY_COUNT,
         )
-    raise Exception(
-        "recursive_loc() has failed with a",
-        request.status_code,
-        request.text,
-        QUERY_COUNT,
-    )
 
 
-def loc_counter_one_repo(
-    owner,
-    repo_name,
-    data,
-    cache_comment,
-    history,
-    addition_total,
-    deletion_total,
-    my_commits,
-):
+def loc_counter_one_repo(history, addition_total, deletion_total, my_commits):
     """
-    Recursively call recursive_loc (since GraphQL can only search 100 commits at a time)
-    only adds the LOC value of commits authored by me
+    Iterates over a page of commit history and aggregates LOC for commits authored by the user.
     """
     for node in history["edges"]:
         if node["node"]["author"]["user"] == OWNER_ID:
@@ -303,19 +306,13 @@ def loc_counter_one_repo(
             addition_total += node["node"]["additions"]
             deletion_total += node["node"]["deletions"]
 
-    if history["edges"] == [] or not history["pageInfo"]["hasNextPage"]:
-        return addition_total, deletion_total, my_commits
-    else:
-        return recursive_loc(
-            owner,
-            repo_name,
-            data,
-            cache_comment,
-            addition_total,
-            deletion_total,
-            my_commits,
-            history["pageInfo"]["endCursor"],
-        )
+    return (
+        addition_total,
+        deletion_total,
+        my_commits,
+        history["pageInfo"]["hasNextPage"],
+        history["pageInfo"]["endCursor"],
+    )
 
 
 def loc_query(
