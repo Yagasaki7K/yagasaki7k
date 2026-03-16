@@ -6,7 +6,7 @@
     <td valign="top">
       <h1>Yagasaki7K</h1>
 <p>
-Full-stack software engineer focused on building scalable web applications and distributed systems. My work encompasses modern web development, backend architecture, APIs, AI, and real-time systems.
+Fullstack software engineer focused on building scalable web applications and distributed systems. My work encompasses modern web development, backend architecture, APIs, AI, and real-time systems.
 </p>
 
 <h2>Areas of Interest</h2>
