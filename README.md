@@ -1,10 +1,10 @@
 <table>
   <tr>
     <td  width="400">
-      <img src="the-inferno-canto-8-1.png" width="400" height="850" alt="Inferno Canto VIII - Gustave Doré">
+      <img src="the-inferno-canto-8-1.jpg" width="400" height="850" alt="Inferno Canto VIII - Gustave Doré">
     </td>
     <td valign="top">
-      <h1>Anderson "Yagasaki" Marlon</h1>
+      <h1>Yagasaki7K</h1>
 <p>
 Fullstack software engineer focused on building scalable web applications and distributed systems.
 Work spans modern web development, backend architecture, APIs, and real-time systems.
