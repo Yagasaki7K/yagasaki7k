@@ -6,9 +6,7 @@
     <td valign="top">
       <h1>Yagasaki7K</h1>
 <p>
-Fullstack software engineer focused on building scalable web applications and distributed systems.
-Work spans modern web development, backend architecture, APIs, and real-time systems.
-Main interests include system design, event-driven architectures, developer platforms, and practical software engineering for production environments.
+Full-stack software engineer focused on building scalable web applications and distributed systems. My work encompasses modern web development, backend architecture, APIs, AI, and real-time systems.
 </p>
 
 <h2>Areas of Interest</h2>
