@@ -34,7 +34,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [**SteamFolio**](https://github.com/Yagasaki7K/website-steamfolio) | A gamified portfolio that pulls your GitHub data (repos, commits, stars) and displays it with a Steam‑inspired interface. Built with Bun, React, TypeScript and Styled Components. |
+| [**Steamfolio**](https://github.com/Yagasaki7K/website-steamfolio) | A gamified portfolio that pulls your GitHub data (repos, commits, stars) and displays it with a Steam‑inspired interface. Built with Bun, React, TypeScript and Styled Components. |
 | [**MeuBoi**](https://github.com/Yagasaki7K/meuboi) | Complete livestock management platform with a Go (formerly Bun.js) backend and Next.js frontend. Features real‑time dashboards, PWA, Swagger and Docusaurus documentation. |
 | [**Advocato**](https://github.com/Yagasaki7K/website-advocato) | Open‑source tool that simplifies legal research by providing an easy‑to‑use interface to access and filter judicial process information. |
 | [**Agent Oracle**](https://github.com/Yagasaki7K/llm-agents) | Repository for creating and sharing structured agent/persona schemas (markdown‑based) for conversational AI or behavioral models. |
