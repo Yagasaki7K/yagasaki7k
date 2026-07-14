@@ -1,13 +1,13 @@
 <table width="100%">
   <tr>
     <td width="400">
-      <img src="https://pbs.twimg.com/media/HNKT3aFW8AAEoih?format=jpg&name=large" width="400" height="auto" alt="Inferno Canto VIII - Gustave Doré">
+      <img src="https://pbs.twimg.com/media/HNKT3aFW8AAEoih?format=jpg&name=large" width="400" height="auto" alt="Night City - Cyberpunk 2077">
     </td>
     <td valign="top">
       <h1>Yagasaki7K</h1>
       <p><strong>Software Engineer focused on Distributed Systems & AI</strong></p>
       <p>
-        Fullstack software engineer with experience in scalable architectures (Node.js/Go). Specialist in process optimization – reducing execution times by up to 35% and increasing conversions by 28% through AI and payment integrations (Stripe/LiraPay).
+        Fullstack software engineer with experience in scalable architectures (Node.js/Bun.js). Specialist in process optimization – reducing execution times by up to 35% (Next.js/Go @ MeuBoi) and increasing conversions by 28% (Typescript/Python @ Astriia) through AI and payment integrations (Stripe/LiraPay @ Zentry).
       </p>
       <p>
         I'm a developer passionate about building robust, high‑performance systems. My work spans modern web applications, distributed backends, API integrations, AI, and real‑time systems. I constantly seek to combine performance, best practices, and creative solutions to solve real‑world problems.
