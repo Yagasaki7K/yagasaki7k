@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td width="400">
-      <img src="the-inferno-canto-8-1.jpg" width="400" height="auto" alt="Inferno Canto VIII - Gustave Doré">
+      <img src="https://pbs.twimg.com/media/HNKT3aFW8AAEoih?format=jpg&name=large" width="400" height="auto" alt="Inferno Canto VIII - Gustave Doré">
     </td>
     <td valign="top">
       <h1>Yagasaki7K</h1>
