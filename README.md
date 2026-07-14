@@ -49,6 +49,7 @@
 - Developer tools and automation
 - Real‑time systems and messaging platforms
 - Scalable web applications, AI software and system design
+- Automation using .yaml (Github Actions), WhatsApp API and Telegram Bot
 
 ## Where to find me
 
