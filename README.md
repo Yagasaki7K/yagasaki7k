@@ -14,7 +14,6 @@
       </p>
       <ul>
         <li>Currently exploring <strong>Go</strong>, <strong>NestJS</strong> and event‑driven architectures.</li>
-        <li>Deep interest in <strong>developer tooling</strong>, <strong>automation</strong>, and <strong>low‑latency platforms</strong>.</li>
         <li>Ask me about <strong>Node.js</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>Prompt Engineer</strong>, and <strong>payment integrations</strong>.</li>
         <li>I believe well‑written code is the best documentation.</li>
       </ul>
@@ -49,7 +48,7 @@
 - Developer tools and automation
 - Real‑time systems and messaging platforms
 - Scalable web applications, AI software and system design
-- Automation using .yaml (Github Actions), WhatsApp API and Telegram Bot
+- Automation using .yaml (Github Actions), Python, WhatsApp API and Telegram Bot
 
 ## Where to find me
 
