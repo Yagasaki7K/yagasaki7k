@@ -5,7 +5,7 @@
     </td>
     <td valign="top">
       <h1>Yagasaki7K</h1>
-      <p><strong>Software Engineer focused on Scalable Architectures & AI</strong></p>
+      <p><strong>Software Developer focused on Scalable Architectures & AI</strong></p>
       <p>
         Specialist in process optimization – reducing execution times by up to 35% (Next.js/Go @ MeuBoi) and increasing conversions by 28% (Typescript/Python @ Astriia) through AI and payment integrations (Stripe/LiraPay @ Zentry).
       </p>
