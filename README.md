@@ -5,9 +5,9 @@
     </td>
     <td valign="top">
       <h1>Yagasaki7K</h1>
-      <p><strong>Software Developer focused on Scalable Architectures & AI</strong></p>
+      <p><strong>software developer focused on scalable architectures & AI</strong></p>
       <p>
-        Specialist in process optimization – reducing execution times by up to 35% (Next.js/Go @ MeuBoi) and increasing conversions by 28% (Typescript/Python @ Astriia) through AI and payment integrations (Stripe/LiraPay @ Zentry).
+        specialist in process optimization – reducing execution times by up to 35% (Next.js/Go @ MeuBoi) and increasing conversions by 28% (Typescript/Python @ Astriia) through AI and payment integrations (Stripe/LiraPay @ Zentry).
       </p>
       <p>
         I'm a developer passionate about building robust, high‑performance systems. My work spans modern web applications, distributed backends, API integrations, AI, and real‑time systems. I constantly seek to combine performance, best practices, and creative solutions to solve real‑world problems.
@@ -31,12 +31,16 @@
 
 ## Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| [**MeuBoi**](https://github.com/Yagasaki7K/meuboi) | Complete livestock management platform with a Go (formerly Bun.js) backend and Next.js frontend. Features real‑time dashboards, PWA, Swagger and Docusaurus documentation. |
-| [**Steamfolio**](https://github.com/Yagasaki7K/website-steamfolio) | A gamified portfolio that pulls your GitHub data (repos, commits, stars) and displays it with a Steam‑inspired interface. Built with Bun, React, TypeScript and Styled Components. |
-| [**Essentials**](https://github.com/Yagasaki7K/website-essentials) | A easy way to install all Utilities, extensions, and app tools for your computer. Not available for mobile. |
-| [**Engide**](https://www.engide.com.br) | Engide emerged to offer innovative solutions for companies and businesses seeking scalability, performance, and exceptional user experiences. |
+| Project                                                                         | What I built                                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**MeuBoi**](https://github.com/Yagasaki7K/app-meuboi)                          | A complete livestock management platform organized as a monorepo, with a .NET backend, Next.js frontend, PostgreSQL integration, authentication, domain/application/infrastructure layers, financial flows, ETL tooling, API contracts and dedicated technical documentation. |
+| [**Steamfolio**](https://github.com/Yagasaki7K/website-steamfolio)              | A Steam-inspired developer profile system that consumes GitHub data, calculates profile statistics, displays achievements and badges, and integrates external RSS content into an interactive interface.                                                                      |
+| [**Essentials**](https://github.com/Yagasaki7K/website-essentials)              | A web utility designed to centralize useful software, tools and applications when setting up or rebuilding a computer, turning scattered installation knowledge into a searchable interface.                                                                                  |
+| [**Findyourpet**](https://github.com/Yagasaki7K/website-findyourpet)            | A platform for reporting lost animals, finding pets, and connecting people for adoption. Built with Next.js, React, Firebase, maps, Styled Components and client-side interaction flows.                                                                                      |
+| [**Bun performance tests**](https://github.com/Yagasaki7K/bun-performancetests) | A runtime experiment comparing Node.js, Bun and Deno through compilation and execution tests, including mathematical workloads and Next.js project generation tests.                                                                                                          |
+| [**Bun ping monitor**](https://github.com/Yagasaki7K/bun-pingmonitor)           | A lightweight networking utility built with Bun for monitoring latency and packet loss.                                                                                                                                                                                       |
+| [**API Estados do Brasil**](https://github.com/Yagasaki7K/api-estadosdobrasil)  | A reusable package containing Brazilian states and cities, distributed as an npm package with multiple consumption strategies and automated tests.                                                                                                                            |
+| [**website/portfolio**](https://github.com/Yagasaki7K/website-yagasaki)                  | My personal web platform, built as a continuously evolving playground for modern Next.js, React, Styled Components, animations, Markdown, RSS, SEO, PDF generation and other web technologies.                                                                                |
 
 > See more on my [GitHub profile](https://github.com/Yagasaki7K) and [personal website](https://yagasaki.vercel.app).
 
@@ -61,3 +65,5 @@
 ---
 
 *If you like my work, feel free to follow me or contribute to any project. Let's build something awesome together!*
+
+
