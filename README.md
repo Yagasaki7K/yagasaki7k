@@ -7,14 +7,14 @@
       <h1>Yagasaki7K</h1>
       <p><strong>software developer focused on scalable architectures & AI</strong></p>
       <p>
-        specialist in process optimization – reducing execution times by up to 35% (Next.js/Go @ MeuBoi) and increasing conversions by 28% (Typescript/Python @ Astriia) through AI and payment integrations (Stripe/LiraPay @ Zentry).
+        specialist in process optimization – reducing execution times by up to 35% (Next.js/Go @ MeuBoi) and increasing conversions by 28% (Typescript/Python @ Astriia) through AI and payment integrations (Stripe/LiraPay).
       </p>
       <p>
-        I'm a developer passionate about building robust, high‑performance systems. My work spans modern web applications, distributed backends, API integrations, AI, and real‑time systems. I constantly seek to combine performance, best practices, and creative solutions to solve real‑world problems.
+        I'm a developer passionate about building robust, high‑performance systems. my work spans modern web applications, distributed backends, API integrations, AI, and real‑time systems. I constantly seek to combine performance, best practices, and creative solutions to solve real‑world problems.
       </p>
       <ul>
-        <li>Currently exploring <strong>Go</strong>, <strong>NestJS</strong> and event‑driven architectures.</li>
-        <li>Ask me about <strong>Node.js</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>Prompt Engineer</strong>, and <strong>payment integrations</strong>.</li>
+        <li>currently exploring <strong>Go Lang</strong> and <strong>Cybersecurity</strong>.</li>
+        <li>ask me about <strong>Node.js</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>Prompt Engineer</strong>, and <strong>payment integrations</strong>.</li>
         <li>I believe well‑written code is the best documentation.</li>
       </ul>
       <h4>Technologies</h4>
