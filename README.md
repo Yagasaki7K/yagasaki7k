@@ -5,7 +5,7 @@
     </td>
     <td valign="top">
       <h1>Yagasaki7K</h1>
-      <p><strong>software engineer & cyber security (wip) focused on scalable architectures & AI</strong></p>
+      <p><strong>software engineer & cyber security (wip) focused on reseach, pentest, scalable architectures & AI</strong></p>
       <p>
         specialist in process optimization – reducing execution times by up to 35% (Next.js/Go @ MeuBoi) and increasing conversions by 28% (Typescript/Python @ Astriia) through AI and payment integrations (Stripe/LiraPay).
       </p>
