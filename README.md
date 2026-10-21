@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td width="400">
-      <img src="https://raw.githubusercontent.com/Yagasaki7K/yagasaki7k/e38f49d038424f572efb3956b780672b857f990f/the-inferno-canto-8-1.jpg" width="400" height="auto" alt="Night City - Cyberpunk 2077">
+      <img src="https://pbs.twimg.com/media/HNKT3aFW8AAEoih?format=jpg&name=large" width="400" height="auto" alt="Night City - Cyberpunk 2077">
     </td>
     <td valign="top">
       <h1>Yagasaki7K</h1>
